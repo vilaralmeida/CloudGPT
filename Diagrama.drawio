@@ -1,0 +1,94 @@
+<mxfile host="Electron" modified="2024-08-02T16:19:10.079Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.6.4 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="F7pQMq2DSCjaU8oFfElf" version="24.6.4" type="device">
+  <diagram name="Page-1" id="FgklGmomvRIeRoaWBR9k">
+    <mxGraphModel dx="708" dy="474" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gpYT61SXqMQ34JX1ciiI-9" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="370" y="150" width="65.6" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gpYT61SXqMQ34JX1ciiI-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="gpYT61SXqMQ34JX1ciiI-1" target="gpYT61SXqMQ34JX1ciiI-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gpYT61SXqMQ34JX1ciiI-1" value="Gestor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="260" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gpYT61SXqMQ34JX1ciiI-4" value="Quantas oportunidades hoje dependem do produto CCE e qual sua capacidade atual?" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="150" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gpYT61SXqMQ34JX1ciiI-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gpYT61SXqMQ34JX1ciiI-5" target="gpYT61SXqMQ34JX1ciiI-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gpYT61SXqMQ34JX1ciiI-5" value="Capacidade" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="480" y="50" width="67.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="gpYT61SXqMQ34JX1ciiI-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gpYT61SXqMQ34JX1ciiI-6" target="gpYT61SXqMQ34JX1ciiI-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="590" y="180" />
+              <mxPoint x="436" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gpYT61SXqMQ34JX1ciiI-6" value="Roadmap" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="560" y="50" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gpYT61SXqMQ34JX1ciiI-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gpYT61SXqMQ34JX1ciiI-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="670" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gpYT61SXqMQ34JX1ciiI-7" value="Contratos" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="640" y="50" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gpYT61SXqMQ34JX1ciiI-8" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/management_governance/Resource_Graph_Explorer.svg;" vertex="1" parent="1">
+          <mxGeometry x="404.19" y="160" width="31.41" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gpYT61SXqMQ34JX1ciiI-10" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#E7157B;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.chatbot;" vertex="1" parent="1">
+          <mxGeometry x="250" y="240" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gpYT61SXqMQ34JX1ciiI-11" value="Base de Conhecimento Especializado" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="250" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gpYT61SXqMQ34JX1ciiI-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="gpYT61SXqMQ34JX1ciiI-9" target="gpYT61SXqMQ34JX1ciiI-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gpYT61SXqMQ34JX1ciiI-19" value="CloudGPT" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="300" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gpYT61SXqMQ34JX1ciiI-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gpYT61SXqMQ34JX1ciiI-20" target="gpYT61SXqMQ34JX1ciiI-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gpYT61SXqMQ34JX1ciiI-20" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cognitive_Services.svg;" vertex="1" parent="1">
+          <mxGeometry x="352.8" y="340" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gpYT61SXqMQ34JX1ciiI-21" value="LLM" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="372.8" y="400" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gpYT61SXqMQ34JX1ciiI-24" value="Conhecimento da Tecnologia e Plataformas" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="610" y="330" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="gpYT61SXqMQ34JX1ciiI-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.978;entryY=0.531;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="gpYT61SXqMQ34JX1ciiI-24" target="gpYT61SXqMQ34JX1ciiI-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gpYT61SXqMQ34JX1ciiI-26" value="Treinamento" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gpYT61SXqMQ34JX1ciiI-25">
+          <mxGeometry x="0.1875" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gpYT61SXqMQ34JX1ciiI-27" value="Há 5 oportunidades aguardando pelo CCE e sua capacidade atual é de 600 instancias do tipo P, 200 do tipo M ou 600 do tipo G" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="420" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gpYT61SXqMQ34JX1ciiI-29" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="390" as="sourcePoint" />
+            <mxPoint x="260" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
