@@ -18,8 +18,7 @@ Com foco no problema da percepção real da mudança promovida pela multinuvem d
 A composição de uma IA Generativa no formato de chat, consolidando o conhecimento sobre (a) a aplicação de cada produto, permitindo que 
 
 
-
-(img1.png)[Imagem 1]
+(Imagem 1)[img1.png]
 
 
 
