@@ -1,0 +1,308 @@
+﻿PLATAFORMA;PRODUTO
+HCSO;ECS Tipo S
+HCSO;ECS Tipo C
+HCSO;EVS
+HCSO;OBS
+HCSO;CCE
+HCSO;SWR
+HCSO;CGS
+HCSO;Huawei MySQL 
+HCSO;Huawei PostgreSQL
+HCSO;Huawei WAF
+HCSO;CBH
+Nuvem Pública;CodeArts Enterprise
+HCSO;IMS
+HCSO;Huawei Auto Scaling
+HCSO;SMN
+HCSO;TMS
+HCSO;VPC Endpoint
+HCSO;DNS
+HCSO;ELB
+HCSO;VPC NAT Gateway
+HCSO;VPN
+HCSO;IAM
+HCSO;Cloud Eye
+HCSO;Cloud Eye + AOM
+HCSO;EIP
+HCSO;EIP Traffic Monitoring
+HCSO;SMC
+HCSO;Anti-DDoS
+HCSO;CBR
+HCSO;Huawei KMS
+Serviços;Basic On-Site Services
+Serviços;Cloud Service Engineer Training
+OUTPOSTS;EC2
+OUTPOSTS;EC2 - GPU
+OUTPOSTS;Auto Scaling
+Nuvem Pública;Serverless
+OUTPOSTS;EKS
+OUTPOSTS;AWS ECS
+OUTPOSTS;ECR
+OUTPOSTS;VPC 
+Nuvem Pública;AWS Transit Gateway
+Nuvem Pública;AWS PrivateLink
+Nuvem Pública;Amazon VPC Lattice
+Nuvem Pública;AWS AppMesh
+Nuvem Pública;AWS Cloud MAP
+Nuvem Pública;Route 53
+Nuvem Pública;AWS Web Application Firewall
+Nuvem Pública;Security Groups 
+Nuvem Pública;AWS Network Firewall
+Nuvem Pública;Network Load Balancer
+Nuvem Pública;Application Load Balancer
+Nuvem Pública;Gateway Load Balancer
+Nuvem Pública;Nat Gateway
+Nuvem Pública;AWS VPN
+Nuvem Pública;Amazon ElastiCache for Redis/MemCache
+Nuvem Pública;AWS Identity and Access Management (IAM)
+Nuvem Pública;AWS IAM Identiy Center
+Nuvem Pública;AWS Organizations
+Nuvem Pública;Amazon Cognito
+Nuvem Pública;Amazon Verified Permissions
+Nuvem Pública;AWS Resource Manager
+Nuvem Pública;AWS Directory Service
+Nuvem Pública;CloudTrail
+Nuvem Pública;CloudWatch
+Nuvem Pública;Amazon Managed Service for Prometheus
+Nuvem Pública;AWS X-Ray
+Nuvem Pública;AWS Artifact
+Nuvem Pública;Amazon GuardDuty
+Nuvem Pública;Amazon Inspector
+Nuvem Pública;AWS Security Hub
+Nuvem Pública;Amazon Security Lake
+Nuvem Pública;Amazon Detective
+Nuvem Pública;Amazon Config
+Nuvem Pública;Amazon  Shield
+Nuvem Pública;Amazon Macie
+OUTPOSTS;AWS EBS
+OUTPOSTS;Amazon S3
+Nuvem Pública;Amazon S3 Glacier
+Nuvem Pública;Amazon S3 Glacier Deep Archive
+Nuvem Pública;Amazon EFS
+Nuvem Pública;Amazon FSX for Windows
+Nuvem Pública;Amazon Fsx for Lustre
+Nuvem Pública;Amazon Storage Gateway
+Nuvem Pública;AWS Backup
+OUTPOSTS;AWS PostgreSQL
+OUTPOSTS;AWS MySQL
+Nuvem Pública;Amazon Keyspaces
+Nuvem Pública;Amazon Nepture
+Nuvem Pública;Amazon DynamoDB
+Nuvem Pública;Amazon Keyspaces
+Nuvem Pública;Amazon DocumentDB
+Serviços;AWS Migration Hub
+Serviços;AWS Application Migration Service (MGN)
+Serviços;AWS App2Container
+Serviços;AWS Database Migration Service
+Serviços;AWS Snowball Edge
+Serviços;AWS DataSync
+Serviços;AWS Storage Gateway
+Nuvem Pública;Amazon Q
+Nuvem Pública;Amazon Bedrock
+Nuvem Pública;Amazon Transcribe
+Nuvem Pública;Amazon Polly
+Nuvem Pública;Amazon Textract
+Nuvem Pública;Amazon Rekoginiton
+Nuvem Pública;Amazon Lex
+Nuvem Pública;Amazon Translate
+Nuvem Pública;Amazon Personalize
+Nuvem Pública;Amazon Augmented AI
+Nuvem Pública;Amazon Comprehend
+Nuvem Pública;Amazon Fraud Detector
+Nuvem Pública;Amazon Kendra
+Nuvem Pública;Amazon Sagemaker
+Nuvem Pública;Amazon QuickSight
+Nuvem Pública;Amazon Athena
+Nuvem Pública;AWS Data Exchange
+Nuvem Pública;AWS Lake Formation
+Nuvem Pública;Amazon DataZone
+Nuvem Pública;AWS Clean Rooms
+Nuvem Pública;AWS Glue
+Nuvem Pública;AWS EMR
+Nuvem Pública;Amazon Redshift
+Nuvem Pública;Amazon Kinesis Video Streams
+Nuvem Pública;Amazon Kinesis Data Streams
+Nuvem Pública;Amazon Data Firehose
+Nuvem Pública;Amazon Managed Service for Apache Flink
+Nuvem Pública;Amazon Simple Queue Service (SQS)
+Nuvem Pública;Amazon Simple Notification Service (SNS)
+Nuvem Pública;Amazon MQ
+Nuvem Pública;Amazon Event Bridge
+Nuvem Pública;API Gateway
+Nuvem Pública;AWS CodeCommit
+Nuvem Pública;AWS CodeBuild
+Nuvem Pública;AWS CodeDeploy
+Nuvem Pública;AWS CodePipeline
+Nuvem Pública;AWS CodeCatalyst
+Nuvem Pública;AWS KMS (Key Management Service)
+Nuvem Pública;AWS CloudHSM
+Nuvem Pública;AWS Secrets Manager
+Nuvem Pública;AWS AppFlow
+Nuvem Pública;AWS Amplify
+Nuvem Pública;AWS Step Functions
+DRCC;Ops Insights for Oracle Autonomous Databases-Basic
+DRCC;Ops Insights for Cloud Databases
+DRCC;Ops Insights for External Oracle Databases and Host
+DRCC;Application Performance Monitoring Service-Tracing Data
+DRCC;Application Performance Monitoring Service-Synthetic Usage
+DRCC;Database Management-External DB BYOL
+DRCC;Database Management-External DB
+DRCC;Database Management-Cloud Databases
+DRCC;Ops Insights for Warehouse-Extract
+DRCC;Ops Insights for Warehouse-Instance
+DRCC;Logging Analytics- Active Storage
+DRCC;Database Management-Autonomous Databases-ECPU
+DRCC;Ops Insights for Oracle Autonomous Databases-Full
+DRCC;Oracle Java Cloud Service-Enterprise
+DRCC;Oracle Java Cloud Service-Standard
+DRCC;Java Cloud Service-High Performance
+DRCC;Java Cloud Service-Enterprise-BYOL
+DRCC;Java Cloud Service-High Performance- BYOL
+DRCC;Java Cloud Service-Standard-BYOL
+DRCC;Oracle Visual Builder
+DRCC;Oracle Visual Builder Studio-Additional Storage
+DRCC;Oracle Digital Assistant Cloud Service
+DRCC;Oracle Mobile Hub Cloud Service
+DRCC;Big Data Service
+DRCC;Speech
+DRCC;Language-Custom Inferencing
+DRCC;Language-Custom Inferencing-Dedicated
+DRCC;Language-Custom Training
+DRCC;Language-Text Translation
+DRCC;Oracle Analytics Cloud-Professional
+DRCC;Oracle Analytics Cloud-Enterprise
+DRCC;Oracle Analytics Cloud-Professional-BYOL
+DRCC;Oracle Analytics Cloud-Enterprise-BYOL
+DRCC;Essbase for Oracle Cloud Infrastructure
+DRCC;Oracle Analytics-Professional
+DRCC;Oracle Analytics-Enterprise
+DRCC;Oracle Analytics Server for Oracle Cloud Infrastructure
+DRCC;Oracle Cloud Infrastructure-File Storage
+DRCC;Oracle Cloud Infrastructure-Streaming-PUT or GET
+DRCC;Oracle Cloud Infrastructure-Streaming-Storage
+DRCC;Oracle Cloud Infrastructure-Object Storage- Requests
+DRCC;Oracle Cloud Infrastructure-Object Storage- Storage
+DRCC;Oracle Cloud Infrastructure-Block Volume Storage
+DRCC;Oracle Cloud Infrastructure-Block Volume Performance
+DRCC;Oracle Cloud Infrastructure-Data Retrieval - Storage
+DRCC;Oracle ZFS Storage-High Availability
+DRCC;Oracle Cloud Infrastructure-Key Management- Private Vault
+DRCC;Oracle Identity Cloud Service-Enterprise User
+DRCC;Oracle Identity Cloud Service-Consumer User
+DRCC;Oracle Identity Cloud Service-Consumer User- BYOL
+DRCC;Oracle Identity Foundation Cloud Service
+DRCC;Oracle Cloud Infrastructure-KMS Vault-Key Versions
+DRCC;Oracle Cloud Infrastructure Identity and Access Management-External User
+DRCC;Oracle Cloud Infrastructure Identity and Access Management-Oracle Apps Premium
+DRCC;Oracle Cloud Infrastructure Identity and Access Management-Premium
+DRCC;Oracle Cloud Infrastructure Identity and Access Management-SMS
+DRCC;Oracle Cloud Infrastructure Identity and Access Management-Token
+DRCC;Oracle Cloud Infrastructure Identity and Access Management-Replication
+DRCC;Oracle Threat Intelligence Service
+DRCC;Oracle Cloud Infrastructure-Web Application Firewall-Requests
+DRCC;Oracle Cloud Infrastructure-Web Application Firewall-Instance
+DRCC;Oracle Cloud Infrastructure-External Key Management
+DRCC;Oracle Integration Cloud Service-Standard
+DRCC;Oracle Integration Cloud Service-Enterprise
+DRCC;Oracle Integration Cloud Service-Standard-BYOL
+DRCC;Oracle Integration Cloud Service-Enterprise-BYOL
+DRCC;Oracle SOA Suite for Oracle Cloud Infrastructure
+DRCC;Oracle SOA Suite for Oracle Cloud Infrastructure- with B2B Adapter for EDI
+DRCC;Oracle Cloud Infrastructure Process Automation- User
+DRCC;Oracle Cloud Infrastructure Process Automation- Execution Pack
+DRCC;Oracle Data Integrator Cloud Service
+DRCC;Oracle Data Integrator Cloud Service-BYOL
+DRCC;Oracle Cloud Infrastructure-Data Integration- Workspace
+DRCC;Oracle Cloud Infrastructure-Data Integration
+DRCC;Oracle Stream Analytics for Oracle Cloud Infrastructure
+DRCC;Oracle Cloud Infrastructure-GoldenGate
+DRCC;Oracle Cloud Infrastructure-GoldenGate-BYOL
+DRCC;Oracle Cloud Infrastructure-Data Integration- Pipeline Operator Execution
+DRCC;Oracle Cloud Infrastructure-FastConnect 1 Gbps
+DRCC;Oracle Cloud Infrastructure-FastConnect 10 Gbps
+DRCC;Oracle Cloud Infrastructure-Outbound Data Transfer-Originating in North America, Europe, and UK
+DRCC;Oracle Cloud Infrastructure-Email Delivery
+DRCC;Oracle Cloud Infrastructure-Health Checks-Basic
+DRCC;Oracle Cloud Infrastructure-Health Checks- Premium
+DRCC;Oracle Cloud Infrastructure-Monitoring-Ingestion
+DRCC;Oracle Cloud Infrastructure-Monitoring-Retrieval
+DRCC;Oracle Cloud Infrastructure-Notifications-HTTPS Delivery
+DRCC;Oracle Cloud Infrastructure-Notifications-Email Delivery
+DRCC;Oracle Cloud Infrastructure-Logging-Storage
+DRCC;Oracle Cloud Infrastructure-Notifications-SMS Outbound to Country
+DRCC;Oracle Cloud Infrastructure-Load Balancer Base
+DRCC;Oracle Cloud Infrastructure-Load Balancer Bandwidth
+DRCC;Oracle Cloud Infrastructure-FastConnect 100Gbps
+DRCC;Oracle Cloud Infrastructure-Outbound Data Transfer-Originating in APAC, Japan, and South America
+DRCC;Oracle Cloud Infrastructure-Outbound Data Transfer-Originating in Middle East and Africa
+DRCC;Oracle Functions-Execution Time-10,000 Gigabyte Memory
+DRCC;Oracle Functions-Invocations
+DRCC;Oracle Cloud Infrastructure-Compute-Microsoft SQL Enterprise
+DRCC;Oracle Cloud Infrastructure-Compute-Microsoft SQL Standard
+DRCC;Oracle Cloud Infrastructure-API Gateway- 1,000,000 API Calls
+DRCC;Oracle Cloud Infrastructure-Compute-Standard-X9
+DRCC;Oracle Cloud Infrastructure-Compute-Standard- X9-Memory
+DRCC;Oracle Container Engine for Kubernetes- Enhanced Cluster
+DRCC;Oracle Cloud Infrastructure-Compute-Standard- E5-OCPU
+DRCC;Oracle Cloud Infrastructure-Compute-Standard- E5-Memory
+DRCC;MySQL Database-ECPU
+DRCC;Oracle Database Cloud Service-Enterprise Edition-General Purpose
+DRCC;Oracle Database Cloud Service-Enterprise Edition Extreme Performance-General Purpose
+DRCC;Oracle Database Cloud Service-Enterprise Edition High Performance-General Purpose
+DRCC;Oracle Database Cloud Service-Standard Edition- General Purpose
+DRCC;Oracle Database Backup Service-Outbound Data Transfer
+DRCC;Oracle Database Backup Service-GET and all other Requests
+DRCC;Oracle Database Backup Service-PUT, COPY, POST or LIST Requests
+DRCC;Oracle Database Backup Service-Storage Capacity
+DRCC;Oracle Database Cloud Service-All Editions-BYOL
+DRCC;Exadata Database OCPU-Dedicated Infrastructure
+DRCC;Exadata Database OCPU-Dedicated Infrastructure-BYOL
+DRCC;Oracle NoSQL Database Cloud Service-Write
+DRCC;Oracle NoSQL Database Cloud Service-Read
+DRCC;Oracle NoSQL Database Cloud Service-Storage
+DRCC;Oracle Database Backup Cloud-Object Storage
+DRCC;Oracle Autonomous Transaction Processing- Exadata Storage
+DRCC;Oracle Base Database Service-Standard
+DRCC;Oracle Base Database Service-Enterprise
+DRCC;Oracle Base Database Service-High Performance
+DRCC;Oracle Base Database Service-Extreme Performance
+DRCC;Oracle Base Database Service-BYOL
+DRCC;Oracle Cloud SQL-Compute Capacity
+DRCC;Oracle Big Data Service-Compute-Standard
+DRCC;Oracle Cloud Infrastructure-Data Safe for Database Cloud Service-Audit Record Collection Over 1 Million Records
+DRCC;Oracle Cloud Infrastructure-Data Safe for Database Cloud Service
+DRCC;MySQL HeatWave-Standard
+DRCC;MySQL Database for HeatWave-Standard
+DRCC;Oracle Autonomous Transaction Processing- Dedicated
+DRCC;Oracle Autonomous Data Warehouse-Dedicated
+DRCC;Oracle Autonomous Transaction Processing- Dedicated-BYOL
+DRCC;Oracle Autonomous Data Warehouse-Dedicated- BYOL
+DRCC;Oracle Autonomous JSON Database
+DRCC;MySQL Database-Storage
+DRCC;MySQL Database-Backup Storage
+DRCC;Oracle Cloud Infrastructure-Data Safe for On- Premises Databases & Databases on Compute
+DRCC;Oracle APEX Application Development
+DRCC;Oracle Cloud Infrastructure Database Migration
+DRCC;Exadata Cloud Infrastructure-Quarter Rack-X9M
+DRCC;Exadata Cloud Infrastructure-Database Server- X9M
+DRCC;Exadata Cloud Infrastructure-Storage Server-X9M
+DRCC;MySQL Database for HeatWave-Bare Metal Standard
+DRCC;Oracle Cloud Infrastructure Search with OpenSearch HA
+DRCC;Oracle NoSQL Database Cloud-Write-Auto
+DRCC;Oracle NoSQL Database Cloud-Read-Auto
+DRCC;Oracle NoSQL Database Cloud-Hosted Environment
+DRCC;Oracle Cloud Infrastructure Application Performance Monitoring Service-Stack Monitoring
+DRCC;MySQL Database-Standard-Intel X9-Compute
+DRCC;MySQL Database-Standard-Intel X9-Memory
+DRCC;Oracle Autonomous Data Warehouse-ECPU
+DRCC;Oracle Autonomous Transaction Processing- ECPU
+DRCC;Oracle Autonomous Data Warehouse-ECPU- BYOL
+DRCC;Oracle Autonomous Transaction Processing- ECPU-BYOL
+DRCC;Oracle Autonomous Database Storage for Transaction Processing
+DRCC;Oracle Autonomous Data Warehouse-Dedicated- ECPU
+DRCC;Oracle Autonomous Transaction Processing- Dedicated-ECPU
+DRCC;Oracle Autonomous Data Warehouse-Dedicated- ECPU-BYOL
+DRCC;Oracle Autonomous Transaction Processing- Dedicated-ECPU-BYOL
+DRCC;Oracle Autonomous Database Storage
+DRCC;Oracle Cloud Infrastructure-HeatWave-Storage
+DRCC;Oracle Cloud Infrastructure-HeatWave

@@ -1,0 +1,308 @@
+﻿PRODUTO;FORMATO
+ECS Tipo S;ON PREMISES
+ECS Tipo C;ON PREMISES
+EVS;ON PREMISES
+OBS;ON PREMISES
+CCE;ON PREMISES
+SWR;ON PREMISES
+CGS;ON PREMISES
+Huawei MySQL ;ON PREMISES
+Huawei PostgreSQL;ON PREMISES
+Huawei WAF;ON PREMISES
+CBH;ON PREMISES
+CodeArts Enterprise;PUBLIC CLOUD
+IMS;ON PREMISES
+Huawei Auto Scaling;ON PREMISES
+SMN;ON PREMISES
+TMS;ON PREMISES
+VPC Endpoint;ON PREMISES
+DNS;ON PREMISES
+ELB;ON PREMISES
+VPC NAT Gateway;ON PREMISES
+VPN;ON PREMISES
+IAM;ON PREMISES
+Cloud Eye;ON PREMISES
+Cloud Eye + AOM;ON PREMISES
+EIP;ON PREMISES
+EIP Traffic Monitoring;ON PREMISES
+SMC;ON PREMISES
+Anti-DDoS;ON PREMISES
+CBR;ON PREMISES
+Huawei KMS;ON PREMISES
+Basic On-Site Services;MANAGED SERVICES
+Cloud Service Engineer Training;MANAGED SERVICES
+EC2;ON PREMISES
+EC2 - GPU;ON PREMISES
+Auto Scaling;ON PREMISES
+Serverless;PUBLIC CLOUD
+EKS;ON PREMISES
+AWS ECS;ON PREMISES
+ECR;ON PREMISES
+VPC ;ON PREMISES
+AWS Transit Gateway;PUBLIC CLOUD
+AWS PrivateLink;PUBLIC CLOUD
+Amazon VPC Lattice;PUBLIC CLOUD
+AWS AppMesh;PUBLIC CLOUD
+AWS Cloud MAP;PUBLIC CLOUD
+Route 53;PUBLIC CLOUD
+AWS Web Application Firewall;PUBLIC CLOUD
+Security Groups ;PUBLIC CLOUD
+AWS Network Firewall;PUBLIC CLOUD
+Network Load Balancer;PUBLIC CLOUD
+Application Load Balancer;PUBLIC CLOUD
+Gateway Load Balancer;PUBLIC CLOUD
+Nat Gateway;PUBLIC CLOUD
+AWS VPN;PUBLIC CLOUD
+Amazon ElastiCache for Redis/MemCache;PUBLIC CLOUD
+AWS Identity and Access Management (IAM);PUBLIC CLOUD
+AWS IAM Identiy Center;PUBLIC CLOUD
+AWS Organizations;PUBLIC CLOUD
+Amazon Cognito;PUBLIC CLOUD
+Amazon Verified Permissions;PUBLIC CLOUD
+AWS Resource Manager;PUBLIC CLOUD
+AWS Directory Service;PUBLIC CLOUD
+CloudTrail;PUBLIC CLOUD
+CloudWatch;PUBLIC CLOUD
+Amazon Managed Service for Prometheus;PUBLIC CLOUD
+AWS X-Ray;PUBLIC CLOUD
+AWS Artifact;PUBLIC CLOUD
+Amazon GuardDuty;PUBLIC CLOUD
+Amazon Inspector;PUBLIC CLOUD
+AWS Security Hub;PUBLIC CLOUD
+Amazon Security Lake;PUBLIC CLOUD
+Amazon Detective;PUBLIC CLOUD
+Amazon Config;PUBLIC CLOUD
+Amazon  Shield;PUBLIC CLOUD
+Amazon Macie;PUBLIC CLOUD
+AWS EBS;ON PREMISES
+Amazon S3;ON PREMISES
+Amazon S3 Glacier;PUBLIC CLOUD
+Amazon S3 Glacier Deep Archive;PUBLIC CLOUD
+Amazon EFS;PUBLIC CLOUD
+Amazon FSX for Windows;PUBLIC CLOUD
+Amazon Fsx for Lustre;PUBLIC CLOUD
+Amazon Storage Gateway;PUBLIC CLOUD
+AWS Backup;PUBLIC CLOUD
+AWS PostgreSQL;ON PREMISES
+AWS MySQL;ON PREMISES
+Amazon Keyspaces;PUBLIC CLOUD
+Amazon Nepture;PUBLIC CLOUD
+Amazon DynamoDB;PUBLIC CLOUD
+Amazon Keyspaces;PUBLIC CLOUD
+Amazon DocumentDB;PUBLIC CLOUD
+AWS Migration Hub;MANAGED SERVICES
+AWS Application Migration Service (MGN);MANAGED SERVICES
+AWS App2Container;MANAGED SERVICES
+AWS Database Migration Service;MANAGED SERVICES
+AWS Snowball Edge;MANAGED SERVICES
+AWS DataSync;MANAGED SERVICES
+AWS Storage Gateway;MANAGED SERVICES
+Amazon Q;PUBLIC CLOUD
+Amazon Bedrock;PUBLIC CLOUD
+Amazon Transcribe;PUBLIC CLOUD
+Amazon Polly;PUBLIC CLOUD
+Amazon Textract;PUBLIC CLOUD
+Amazon Rekoginiton;PUBLIC CLOUD
+Amazon Lex;PUBLIC CLOUD
+Amazon Translate;PUBLIC CLOUD
+Amazon Personalize;PUBLIC CLOUD
+Amazon Augmented AI;PUBLIC CLOUD
+Amazon Comprehend;PUBLIC CLOUD
+Amazon Fraud Detector;PUBLIC CLOUD
+Amazon Kendra;PUBLIC CLOUD
+Amazon Sagemaker;PUBLIC CLOUD
+Amazon QuickSight;PUBLIC CLOUD
+Amazon Athena;PUBLIC CLOUD
+AWS Data Exchange;PUBLIC CLOUD
+AWS Lake Formation;PUBLIC CLOUD
+Amazon DataZone;PUBLIC CLOUD
+AWS Clean Rooms;PUBLIC CLOUD
+AWS Glue;PUBLIC CLOUD
+AWS EMR;PUBLIC CLOUD
+Amazon Redshift;PUBLIC CLOUD
+Amazon Kinesis Video Streams;PUBLIC CLOUD
+Amazon Kinesis Data Streams;PUBLIC CLOUD
+Amazon Data Firehose;PUBLIC CLOUD
+Amazon Managed Service for Apache Flink;PUBLIC CLOUD
+Amazon Simple Queue Service (SQS);PUBLIC CLOUD
+Amazon Simple Notification Service (SNS);PUBLIC CLOUD
+Amazon MQ;PUBLIC CLOUD
+Amazon Event Bridge;PUBLIC CLOUD
+API Gateway;PUBLIC CLOUD
+AWS CodeCommit;PUBLIC CLOUD
+AWS CodeBuild;PUBLIC CLOUD
+AWS CodeDeploy;PUBLIC CLOUD
+AWS CodePipeline;PUBLIC CLOUD
+AWS CodeCatalyst;PUBLIC CLOUD
+AWS KMS (Key Management Service);PUBLIC CLOUD
+AWS CloudHSM;PUBLIC CLOUD
+AWS Secrets Manager;PUBLIC CLOUD
+AWS AppFlow;PUBLIC CLOUD
+AWS Amplify;PUBLIC CLOUD
+AWS Step Functions;PUBLIC CLOUD
+Ops Insights for Oracle Autonomous Databases-Basic;ON PREMISES
+Ops Insights for Cloud Databases;ON PREMISES
+Ops Insights for External Oracle Databases and Host;ON PREMISES
+Application Performance Monitoring Service-Tracing Data;ON PREMISES
+Application Performance Monitoring Service-Synthetic Usage;ON PREMISES
+Database Management-External DB BYOL;ON PREMISES
+Database Management-External DB;ON PREMISES
+Database Management-Cloud Databases;ON PREMISES
+Ops Insights for Warehouse-Extract;ON PREMISES
+Ops Insights for Warehouse-Instance;ON PREMISES
+Logging Analytics- Active Storage;ON PREMISES
+Database Management-Autonomous Databases-ECPU;ON PREMISES
+Ops Insights for Oracle Autonomous Databases-Full;ON PREMISES
+Oracle Java Cloud Service-Enterprise;ON PREMISES
+Oracle Java Cloud Service-Standard;ON PREMISES
+Java Cloud Service-High Performance;ON PREMISES
+Java Cloud Service-Enterprise-BYOL;ON PREMISES
+Java Cloud Service-High Performance- BYOL;ON PREMISES
+Java Cloud Service-Standard-BYOL;ON PREMISES
+Oracle Visual Builder;ON PREMISES
+Oracle Visual Builder Studio-Additional Storage;ON PREMISES
+Oracle Digital Assistant Cloud Service;ON PREMISES
+Oracle Mobile Hub Cloud Service;ON PREMISES
+Big Data Service;ON PREMISES
+Speech;ON PREMISES
+Language-Custom Inferencing;ON PREMISES
+Language-Custom Inferencing-Dedicated;ON PREMISES
+Language-Custom Training;ON PREMISES
+Language-Text Translation;ON PREMISES
+Oracle Analytics Cloud-Professional;ON PREMISES
+Oracle Analytics Cloud-Enterprise;ON PREMISES
+Oracle Analytics Cloud-Professional-BYOL;ON PREMISES
+Oracle Analytics Cloud-Enterprise-BYOL;ON PREMISES
+Essbase for Oracle Cloud Infrastructure;ON PREMISES
+Oracle Analytics-Professional;ON PREMISES
+Oracle Analytics-Enterprise;ON PREMISES
+Oracle Analytics Server for Oracle Cloud Infrastructure;ON PREMISES
+Oracle Cloud Infrastructure-File Storage;ON PREMISES
+Oracle Cloud Infrastructure-Streaming-PUT or GET;ON PREMISES
+Oracle Cloud Infrastructure-Streaming-Storage;ON PREMISES
+Oracle Cloud Infrastructure-Object Storage- Requests;ON PREMISES
+Oracle Cloud Infrastructure-Object Storage- Storage;ON PREMISES
+Oracle Cloud Infrastructure-Block Volume Storage;ON PREMISES
+Oracle Cloud Infrastructure-Block Volume Performance;ON PREMISES
+Oracle Cloud Infrastructure-Data Retrieval - Storage;ON PREMISES
+Oracle ZFS Storage-High Availability;ON PREMISES
+Oracle Cloud Infrastructure-Key Management- Private Vault;ON PREMISES
+Oracle Identity Cloud Service-Enterprise User;ON PREMISES
+Oracle Identity Cloud Service-Consumer User;ON PREMISES
+Oracle Identity Cloud Service-Consumer User- BYOL;ON PREMISES
+Oracle Identity Foundation Cloud Service;ON PREMISES
+Oracle Cloud Infrastructure-KMS Vault-Key Versions;ON PREMISES
+Oracle Cloud Infrastructure Identity and Access Management-External User;ON PREMISES
+Oracle Cloud Infrastructure Identity and Access Management-Oracle Apps Premium;ON PREMISES
+Oracle Cloud Infrastructure Identity and Access Management-Premium;ON PREMISES
+Oracle Cloud Infrastructure Identity and Access Management-SMS;ON PREMISES
+Oracle Cloud Infrastructure Identity and Access Management-Token;ON PREMISES
+Oracle Cloud Infrastructure Identity and Access Management-Replication;ON PREMISES
+Oracle Threat Intelligence Service;ON PREMISES
+Oracle Cloud Infrastructure-Web Application Firewall-Requests;ON PREMISES
+Oracle Cloud Infrastructure-Web Application Firewall-Instance;ON PREMISES
+Oracle Cloud Infrastructure-External Key Management;ON PREMISES
+Oracle Integration Cloud Service-Standard;ON PREMISES
+Oracle Integration Cloud Service-Enterprise;ON PREMISES
+Oracle Integration Cloud Service-Standard-BYOL;ON PREMISES
+Oracle Integration Cloud Service-Enterprise-BYOL;ON PREMISES
+Oracle SOA Suite for Oracle Cloud Infrastructure;ON PREMISES
+Oracle SOA Suite for Oracle Cloud Infrastructure- with B2B Adapter for EDI;ON PREMISES
+Oracle Cloud Infrastructure Process Automation- User;ON PREMISES
+Oracle Cloud Infrastructure Process Automation- Execution Pack;ON PREMISES
+Oracle Data Integrator Cloud Service;ON PREMISES
+Oracle Data Integrator Cloud Service-BYOL;ON PREMISES
+Oracle Cloud Infrastructure-Data Integration- Workspace;ON PREMISES
+Oracle Cloud Infrastructure-Data Integration;ON PREMISES
+Oracle Stream Analytics for Oracle Cloud Infrastructure;ON PREMISES
+Oracle Cloud Infrastructure-GoldenGate;ON PREMISES
+Oracle Cloud Infrastructure-GoldenGate-BYOL;ON PREMISES
+Oracle Cloud Infrastructure-Data Integration- Pipeline Operator Execution;ON PREMISES
+Oracle Cloud Infrastructure-FastConnect 1 Gbps;ON PREMISES
+Oracle Cloud Infrastructure-FastConnect 10 Gbps;ON PREMISES
+Oracle Cloud Infrastructure-Outbound Data Transfer-Originating in North America, Europe, and UK;ON PREMISES
+Oracle Cloud Infrastructure-Email Delivery;ON PREMISES
+Oracle Cloud Infrastructure-Health Checks-Basic;ON PREMISES
+Oracle Cloud Infrastructure-Health Checks- Premium;ON PREMISES
+Oracle Cloud Infrastructure-Monitoring-Ingestion;ON PREMISES
+Oracle Cloud Infrastructure-Monitoring-Retrieval;ON PREMISES
+Oracle Cloud Infrastructure-Notifications-HTTPS Delivery;ON PREMISES
+Oracle Cloud Infrastructure-Notifications-Email Delivery;ON PREMISES
+Oracle Cloud Infrastructure-Logging-Storage;ON PREMISES
+Oracle Cloud Infrastructure-Notifications-SMS Outbound to Country;ON PREMISES
+Oracle Cloud Infrastructure-Load Balancer Base;ON PREMISES
+Oracle Cloud Infrastructure-Load Balancer Bandwidth;ON PREMISES
+Oracle Cloud Infrastructure-FastConnect 100Gbps;ON PREMISES
+Oracle Cloud Infrastructure-Outbound Data Transfer-Originating in APAC, Japan, and South America;ON PREMISES
+Oracle Cloud Infrastructure-Outbound Data Transfer-Originating in Middle East and Africa;ON PREMISES
+Oracle Functions-Execution Time-10,000 Gigabyte Memory;ON PREMISES
+Oracle Functions-Invocations;ON PREMISES
+Oracle Cloud Infrastructure-Compute-Microsoft SQL Enterprise;ON PREMISES
+Oracle Cloud Infrastructure-Compute-Microsoft SQL Standard;ON PREMISES
+Oracle Cloud Infrastructure-API Gateway- 1,000,000 API Calls;ON PREMISES
+Oracle Cloud Infrastructure-Compute-Standard-X9;ON PREMISES
+Oracle Cloud Infrastructure-Compute-Standard- X9-Memory;ON PREMISES
+Oracle Container Engine for Kubernetes- Enhanced Cluster;ON PREMISES
+Oracle Cloud Infrastructure-Compute-Standard- E5-OCPU;ON PREMISES
+Oracle Cloud Infrastructure-Compute-Standard- E5-Memory;ON PREMISES
+MySQL Database-ECPU;ON PREMISES
+Oracle Database Cloud Service-Enterprise Edition-General Purpose;ON PREMISES
+Oracle Database Cloud Service-Enterprise Edition Extreme Performance-General Purpose;ON PREMISES
+Oracle Database Cloud Service-Enterprise Edition High Performance-General Purpose;ON PREMISES
+Oracle Database Cloud Service-Standard Edition- General Purpose;ON PREMISES
+Oracle Database Backup Service-Outbound Data Transfer;ON PREMISES
+Oracle Database Backup Service-GET and all other Requests;ON PREMISES
+Oracle Database Backup Service-PUT, COPY, POST or LIST Requests;ON PREMISES
+Oracle Database Backup Service-Storage Capacity;ON PREMISES
+Oracle Database Cloud Service-All Editions-BYOL;ON PREMISES
+Exadata Database OCPU-Dedicated Infrastructure;ON PREMISES
+Exadata Database OCPU-Dedicated Infrastructure-BYOL;ON PREMISES
+Oracle NoSQL Database Cloud Service-Write;ON PREMISES
+Oracle NoSQL Database Cloud Service-Read;ON PREMISES
+Oracle NoSQL Database Cloud Service-Storage;ON PREMISES
+Oracle Database Backup Cloud-Object Storage;ON PREMISES
+Oracle Autonomous Transaction Processing- Exadata Storage;ON PREMISES
+Oracle Base Database Service-Standard;ON PREMISES
+Oracle Base Database Service-Enterprise;ON PREMISES
+Oracle Base Database Service-High Performance;ON PREMISES
+Oracle Base Database Service-Extreme Performance;ON PREMISES
+Oracle Base Database Service-BYOL;ON PREMISES
+Oracle Cloud SQL-Compute Capacity;ON PREMISES
+Oracle Big Data Service-Compute-Standard;ON PREMISES
+Oracle Cloud Infrastructure-Data Safe for Database Cloud Service-Audit Record Collection Over 1 Million Records;ON PREMISES
+Oracle Cloud Infrastructure-Data Safe for Database Cloud Service;ON PREMISES
+MySQL HeatWave-Standard;ON PREMISES
+MySQL Database for HeatWave-Standard;ON PREMISES
+Oracle Autonomous Transaction Processing- Dedicated;ON PREMISES
+Oracle Autonomous Data Warehouse-Dedicated;ON PREMISES
+Oracle Autonomous Transaction Processing- Dedicated-BYOL;ON PREMISES
+Oracle Autonomous Data Warehouse-Dedicated- BYOL;ON PREMISES
+Oracle Autonomous JSON Database;ON PREMISES
+MySQL Database-Storage;ON PREMISES
+MySQL Database-Backup Storage;ON PREMISES
+Oracle Cloud Infrastructure-Data Safe for On- Premises Databases & Databases on Compute;ON PREMISES
+Oracle APEX Application Development;ON PREMISES
+Oracle Cloud Infrastructure Database Migration;ON PREMISES
+Exadata Cloud Infrastructure-Quarter Rack-X9M;ON PREMISES
+Exadata Cloud Infrastructure-Database Server- X9M;ON PREMISES
+Exadata Cloud Infrastructure-Storage Server-X9M;ON PREMISES
+MySQL Database for HeatWave-Bare Metal Standard;ON PREMISES
+Oracle Cloud Infrastructure Search with OpenSearch HA;ON PREMISES
+Oracle NoSQL Database Cloud-Write-Auto;ON PREMISES
+Oracle NoSQL Database Cloud-Read-Auto;ON PREMISES
+Oracle NoSQL Database Cloud-Hosted Environment;ON PREMISES
+Oracle Cloud Infrastructure Application Performance Monitoring Service-Stack Monitoring;ON PREMISES
+MySQL Database-Standard-Intel X9-Compute;ON PREMISES
+MySQL Database-Standard-Intel X9-Memory;ON PREMISES
+Oracle Autonomous Data Warehouse-ECPU;ON PREMISES
+Oracle Autonomous Transaction Processing- ECPU;ON PREMISES
+Oracle Autonomous Data Warehouse-ECPU- BYOL;ON PREMISES
+Oracle Autonomous Transaction Processing- ECPU-BYOL;ON PREMISES
+Oracle Autonomous Database Storage for Transaction Processing;ON PREMISES
+Oracle Autonomous Data Warehouse-Dedicated- ECPU;ON PREMISES
+Oracle Autonomous Transaction Processing- Dedicated-ECPU;ON PREMISES
+Oracle Autonomous Data Warehouse-Dedicated- ECPU-BYOL;ON PREMISES
+Oracle Autonomous Transaction Processing- Dedicated-ECPU-BYOL;ON PREMISES
+Oracle Autonomous Database Storage;ON PREMISES
+Oracle Cloud Infrastructure-HeatWave-Storage;ON PREMISES
+Oracle Cloud Infrastructure-HeatWave;ON PREMISES

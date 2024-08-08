@@ -1,0 +1,308 @@
+﻿FORNECEDOR;PRODUTO
+HUAWEI;ECS Tipo S
+HUAWEI;ECS Tipo C
+HUAWEI;EVS
+HUAWEI;OBS
+HUAWEI;CCE
+HUAWEI;SWR
+HUAWEI;CGS
+HUAWEI;Huawei MySQL 
+HUAWEI;Huawei PostgreSQL
+HUAWEI;Huawei WAF
+HUAWEI;CBH
+HUAWEI;CodeArts Enterprise
+HUAWEI;IMS
+HUAWEI;Huawei Auto Scaling
+HUAWEI;SMN
+HUAWEI;TMS
+HUAWEI;VPC Endpoint
+HUAWEI;DNS
+HUAWEI;ELB
+HUAWEI;VPC NAT Gateway
+HUAWEI;VPN
+HUAWEI;IAM
+HUAWEI;Cloud Eye
+HUAWEI;Cloud Eye + AOM
+HUAWEI;EIP
+HUAWEI;EIP Traffic Monitoring
+HUAWEI;SMC
+HUAWEI;Anti-DDoS
+HUAWEI;CBR
+HUAWEI;Huawei KMS
+HUAWEI;Basic On-Site Services
+HUAWEI;Cloud Service Engineer Training
+AWS;EC2
+AWS;EC2 - GPU
+AWS;Auto Scaling
+AWS;Serverless
+AWS;EKS
+AWS;AWS ECS
+AWS;ECR
+AWS;VPC 
+AWS;AWS Transit Gateway
+AWS;AWS PrivateLink
+AWS;Amazon VPC Lattice
+AWS;AWS AppMesh
+AWS;AWS Cloud MAP
+AWS;Route 53
+AWS;AWS Web Application Firewall
+AWS;Security Groups 
+AWS;AWS Network Firewall
+AWS;Network Load Balancer
+AWS;Application Load Balancer
+AWS;Gateway Load Balancer
+AWS;Nat Gateway
+AWS;AWS VPN
+AWS;Amazon ElastiCache for Redis/MemCache
+AWS;AWS Identity and Access Management (IAM)
+AWS;AWS IAM Identiy Center
+AWS;AWS Organizations
+AWS;Amazon Cognito
+AWS;Amazon Verified Permissions
+AWS;AWS Resource Manager
+AWS;AWS Directory Service
+AWS;CloudTrail
+AWS;CloudWatch
+AWS;Amazon Managed Service for Prometheus
+AWS;AWS X-Ray
+AWS;AWS Artifact
+AWS;Amazon GuardDuty
+AWS;Amazon Inspector
+AWS;AWS Security Hub
+AWS;Amazon Security Lake
+AWS;Amazon Detective
+AWS;Amazon Config
+AWS;Amazon  Shield
+AWS;Amazon Macie
+AWS;AWS EBS
+AWS;Amazon S3
+AWS;Amazon S3 Glacier
+AWS;Amazon S3 Glacier Deep Archive
+AWS;Amazon EFS
+AWS;Amazon FSX for Windows
+AWS;Amazon Fsx for Lustre
+AWS;Amazon Storage Gateway
+AWS;AWS Backup
+AWS;AWS PostgreSQL
+AWS;AWS MySQL
+AWS;Amazon Keyspaces
+AWS;Amazon Nepture
+AWS;Amazon DynamoDB
+AWS;Amazon Keyspaces
+AWS;Amazon DocumentDB
+AWS;AWS Migration Hub
+AWS;AWS Application Migration Service (MGN)
+AWS;AWS App2Container
+AWS;AWS Database Migration Service
+AWS;AWS Snowball Edge
+AWS;AWS DataSync
+AWS;AWS Storage Gateway
+AWS;Amazon Q
+AWS;Amazon Bedrock
+AWS;Amazon Transcribe
+AWS;Amazon Polly
+AWS;Amazon Textract
+AWS;Amazon Rekoginiton
+AWS;Amazon Lex
+AWS;Amazon Translate
+AWS;Amazon Personalize
+AWS;Amazon Augmented AI
+AWS;Amazon Comprehend
+AWS;Amazon Fraud Detector
+AWS;Amazon Kendra
+AWS;Amazon Sagemaker
+AWS;Amazon QuickSight
+AWS;Amazon Athena
+AWS;AWS Data Exchange
+AWS;AWS Lake Formation
+AWS;Amazon DataZone
+AWS;AWS Clean Rooms
+AWS;AWS Glue
+AWS;AWS EMR
+AWS;Amazon Redshift
+AWS;Amazon Kinesis Video Streams
+AWS;Amazon Kinesis Data Streams
+AWS;Amazon Data Firehose
+AWS;Amazon Managed Service for Apache Flink
+AWS;Amazon Simple Queue Service (SQS)
+AWS;Amazon Simple Notification Service (SNS)
+AWS;Amazon MQ
+AWS;Amazon Event Bridge
+AWS;API Gateway
+AWS;AWS CodeCommit
+AWS;AWS CodeBuild
+AWS;AWS CodeDeploy
+AWS;AWS CodePipeline
+AWS;AWS CodeCatalyst
+AWS;AWS KMS (Key Management Service)
+AWS;AWS CloudHSM
+AWS;AWS Secrets Manager
+AWS;AWS AppFlow
+AWS;AWS Amplify
+AWS;AWS Step Functions
+Oracle;Ops Insights for Oracle Autonomous Databases-Basic
+Oracle;Ops Insights for Cloud Databases
+Oracle;Ops Insights for External Oracle Databases and Host
+Oracle;Application Performance Monitoring Service-Tracing Data
+Oracle;Application Performance Monitoring Service-Synthetic Usage
+Oracle;Database Management-External DB BYOL
+Oracle;Database Management-External DB
+Oracle;Database Management-Cloud Databases
+Oracle;Ops Insights for Warehouse-Extract
+Oracle;Ops Insights for Warehouse-Instance
+Oracle;Logging Analytics- Active Storage
+Oracle;Database Management-Autonomous Databases-ECPU
+Oracle;Ops Insights for Oracle Autonomous Databases-Full
+Oracle;Oracle Java Cloud Service-Enterprise
+Oracle;Oracle Java Cloud Service-Standard
+Oracle;Java Cloud Service-High Performance
+Oracle;Java Cloud Service-Enterprise-BYOL
+Oracle;Java Cloud Service-High Performance- BYOL
+Oracle;Java Cloud Service-Standard-BYOL
+Oracle;Oracle Visual Builder
+Oracle;Oracle Visual Builder Studio-Additional Storage
+Oracle;Oracle Digital Assistant Cloud Service
+Oracle;Oracle Mobile Hub Cloud Service
+Oracle;Big Data Service
+Oracle;Speech
+Oracle;Language-Custom Inferencing
+Oracle;Language-Custom Inferencing-Dedicated
+Oracle;Language-Custom Training
+Oracle;Language-Text Translation
+Oracle;Oracle Analytics Cloud-Professional
+Oracle;Oracle Analytics Cloud-Enterprise
+Oracle;Oracle Analytics Cloud-Professional-BYOL
+Oracle;Oracle Analytics Cloud-Enterprise-BYOL
+Oracle;Essbase for Oracle Cloud Infrastructure
+Oracle;Oracle Analytics-Professional
+Oracle;Oracle Analytics-Enterprise
+Oracle;Oracle Analytics Server for Oracle Cloud Infrastructure
+Oracle;Oracle Cloud Infrastructure-File Storage
+Oracle;Oracle Cloud Infrastructure-Streaming-PUT or GET
+Oracle;Oracle Cloud Infrastructure-Streaming-Storage
+Oracle;Oracle Cloud Infrastructure-Object Storage- Requests
+Oracle;Oracle Cloud Infrastructure-Object Storage- Storage
+Oracle;Oracle Cloud Infrastructure-Block Volume Storage
+Oracle;Oracle Cloud Infrastructure-Block Volume Performance
+Oracle;Oracle Cloud Infrastructure-Data Retrieval - Storage
+Oracle;Oracle ZFS Storage-High Availability
+Oracle;Oracle Cloud Infrastructure-Key Management- Private Vault
+Oracle;Oracle Identity Cloud Service-Enterprise User
+Oracle;Oracle Identity Cloud Service-Consumer User
+Oracle;Oracle Identity Cloud Service-Consumer User- BYOL
+Oracle;Oracle Identity Foundation Cloud Service
+Oracle;Oracle Cloud Infrastructure-KMS Vault-Key Versions
+Oracle;Oracle Cloud Infrastructure Identity and Access Management-External User
+Oracle;Oracle Cloud Infrastructure Identity and Access Management-Oracle Apps Premium
+Oracle;Oracle Cloud Infrastructure Identity and Access Management-Premium
+Oracle;Oracle Cloud Infrastructure Identity and Access Management-SMS
+Oracle;Oracle Cloud Infrastructure Identity and Access Management-Token
+Oracle;Oracle Cloud Infrastructure Identity and Access Management-Replication
+Oracle;Oracle Threat Intelligence Service
+Oracle;Oracle Cloud Infrastructure-Web Application Firewall-Requests
+Oracle;Oracle Cloud Infrastructure-Web Application Firewall-Instance
+Oracle;Oracle Cloud Infrastructure-External Key Management
+Oracle;Oracle Integration Cloud Service-Standard
+Oracle;Oracle Integration Cloud Service-Enterprise
+Oracle;Oracle Integration Cloud Service-Standard-BYOL
+Oracle;Oracle Integration Cloud Service-Enterprise-BYOL
+Oracle;Oracle SOA Suite for Oracle Cloud Infrastructure
+Oracle;Oracle SOA Suite for Oracle Cloud Infrastructure- with B2B Adapter for EDI
+Oracle;Oracle Cloud Infrastructure Process Automation- User
+Oracle;Oracle Cloud Infrastructure Process Automation- Execution Pack
+Oracle;Oracle Data Integrator Cloud Service
+Oracle;Oracle Data Integrator Cloud Service-BYOL
+Oracle;Oracle Cloud Infrastructure-Data Integration- Workspace
+Oracle;Oracle Cloud Infrastructure-Data Integration
+Oracle;Oracle Stream Analytics for Oracle Cloud Infrastructure
+Oracle;Oracle Cloud Infrastructure-GoldenGate
+Oracle;Oracle Cloud Infrastructure-GoldenGate-BYOL
+Oracle;Oracle Cloud Infrastructure-Data Integration- Pipeline Operator Execution
+Oracle;Oracle Cloud Infrastructure-FastConnect 1 Gbps
+Oracle;Oracle Cloud Infrastructure-FastConnect 10 Gbps
+Oracle;Oracle Cloud Infrastructure-Outbound Data Transfer-Originating in North America, Europe, and UK
+Oracle;Oracle Cloud Infrastructure-Email Delivery
+Oracle;Oracle Cloud Infrastructure-Health Checks-Basic
+Oracle;Oracle Cloud Infrastructure-Health Checks- Premium
+Oracle;Oracle Cloud Infrastructure-Monitoring-Ingestion
+Oracle;Oracle Cloud Infrastructure-Monitoring-Retrieval
+Oracle;Oracle Cloud Infrastructure-Notifications-HTTPS Delivery
+Oracle;Oracle Cloud Infrastructure-Notifications-Email Delivery
+Oracle;Oracle Cloud Infrastructure-Logging-Storage
+Oracle;Oracle Cloud Infrastructure-Notifications-SMS Outbound to Country
+Oracle;Oracle Cloud Infrastructure-Load Balancer Base
+Oracle;Oracle Cloud Infrastructure-Load Balancer Bandwidth
+Oracle;Oracle Cloud Infrastructure-FastConnect 100Gbps
+Oracle;Oracle Cloud Infrastructure-Outbound Data Transfer-Originating in APAC, Japan, and South America
+Oracle;Oracle Cloud Infrastructure-Outbound Data Transfer-Originating in Middle East and Africa
+Oracle;Oracle Functions-Execution Time-10,000 Gigabyte Memory
+Oracle;Oracle Functions-Invocations
+Oracle;Oracle Cloud Infrastructure-Compute-Microsoft SQL Enterprise
+Oracle;Oracle Cloud Infrastructure-Compute-Microsoft SQL Standard
+Oracle;Oracle Cloud Infrastructure-API Gateway- 1,000,000 API Calls
+Oracle;Oracle Cloud Infrastructure-Compute-Standard-X9
+Oracle;Oracle Cloud Infrastructure-Compute-Standard- X9-Memory
+Oracle;Oracle Container Engine for Kubernetes- Enhanced Cluster
+Oracle;Oracle Cloud Infrastructure-Compute-Standard- E5-OCPU
+Oracle;Oracle Cloud Infrastructure-Compute-Standard- E5-Memory
+Oracle;MySQL Database-ECPU
+Oracle;Oracle Database Cloud Service-Enterprise Edition-General Purpose
+Oracle;Oracle Database Cloud Service-Enterprise Edition Extreme Performance-General Purpose
+Oracle;Oracle Database Cloud Service-Enterprise Edition High Performance-General Purpose
+Oracle;Oracle Database Cloud Service-Standard Edition- General Purpose
+Oracle;Oracle Database Backup Service-Outbound Data Transfer
+Oracle;Oracle Database Backup Service-GET and all other Requests
+Oracle;Oracle Database Backup Service-PUT, COPY, POST or LIST Requests
+Oracle;Oracle Database Backup Service-Storage Capacity
+Oracle;Oracle Database Cloud Service-All Editions-BYOL
+Oracle;Exadata Database OCPU-Dedicated Infrastructure
+Oracle;Exadata Database OCPU-Dedicated Infrastructure-BYOL
+Oracle;Oracle NoSQL Database Cloud Service-Write
+Oracle;Oracle NoSQL Database Cloud Service-Read
+Oracle;Oracle NoSQL Database Cloud Service-Storage
+Oracle;Oracle Database Backup Cloud-Object Storage
+Oracle;Oracle Autonomous Transaction Processing- Exadata Storage
+Oracle;Oracle Base Database Service-Standard
+Oracle;Oracle Base Database Service-Enterprise
+Oracle;Oracle Base Database Service-High Performance
+Oracle;Oracle Base Database Service-Extreme Performance
+Oracle;Oracle Base Database Service-BYOL
+Oracle;Oracle Cloud SQL-Compute Capacity
+Oracle;Oracle Big Data Service-Compute-Standard
+Oracle;Oracle Cloud Infrastructure-Data Safe for Database Cloud Service-Audit Record Collection Over 1 Million Records
+Oracle;Oracle Cloud Infrastructure-Data Safe for Database Cloud Service
+Oracle;MySQL HeatWave-Standard
+Oracle;MySQL Database for HeatWave-Standard
+Oracle;Oracle Autonomous Transaction Processing- Dedicated
+Oracle;Oracle Autonomous Data Warehouse-Dedicated
+Oracle;Oracle Autonomous Transaction Processing- Dedicated-BYOL
+Oracle;Oracle Autonomous Data Warehouse-Dedicated- BYOL
+Oracle;Oracle Autonomous JSON Database
+Oracle;MySQL Database-Storage
+Oracle;MySQL Database-Backup Storage
+Oracle;Oracle Cloud Infrastructure-Data Safe for On- Premises Databases & Databases on Compute
+Oracle;Oracle APEX Application Development
+Oracle;Oracle Cloud Infrastructure Database Migration
+Oracle;Exadata Cloud Infrastructure-Quarter Rack-X9M
+Oracle;Exadata Cloud Infrastructure-Database Server- X9M
+Oracle;Exadata Cloud Infrastructure-Storage Server-X9M
+Oracle;MySQL Database for HeatWave-Bare Metal Standard
+Oracle;Oracle Cloud Infrastructure Search with OpenSearch HA
+Oracle;Oracle NoSQL Database Cloud-Write-Auto
+Oracle;Oracle NoSQL Database Cloud-Read-Auto
+Oracle;Oracle NoSQL Database Cloud-Hosted Environment
+Oracle;Oracle Cloud Infrastructure Application Performance Monitoring Service-Stack Monitoring
+Oracle;MySQL Database-Standard-Intel X9-Compute
+Oracle;MySQL Database-Standard-Intel X9-Memory
+Oracle;Oracle Autonomous Data Warehouse-ECPU
+Oracle;Oracle Autonomous Transaction Processing- ECPU
+Oracle;Oracle Autonomous Data Warehouse-ECPU- BYOL
+Oracle;Oracle Autonomous Transaction Processing- ECPU-BYOL
+Oracle;Oracle Autonomous Database Storage for Transaction Processing
+Oracle;Oracle Autonomous Data Warehouse-Dedicated- ECPU
+Oracle;Oracle Autonomous Transaction Processing- Dedicated-ECPU
+Oracle;Oracle Autonomous Data Warehouse-Dedicated- ECPU-BYOL
+Oracle;Oracle Autonomous Transaction Processing- Dedicated-ECPU-BYOL
+Oracle;Oracle Autonomous Database Storage
+Oracle;Oracle Cloud Infrastructure-HeatWave-Storage
+Oracle;Oracle Cloud Infrastructure-HeatWave

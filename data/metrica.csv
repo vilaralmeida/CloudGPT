@@ -1,0 +1,387 @@
+﻿PRODUTO;CAPACIDADE
+ECS Tipo S;vCPU
+ECS Tipo S;RAM (GB)
+ECS Tipo C;vCPU
+ECS Tipo C;RAM (GB)
+EVS;TB
+OBS;TB
+CCE;vCPU
+CCE;RAM (GB)
+SWR;QTE de  RECURSOS por PADRÃO
+CGS;Nós
+Huawei MySQL ;vCPU
+Huawei MySQL ;RAM (GB)
+Huawei PostgreSQL;vCPU
+Huawei PostgreSQL;RAM (GB)
+Huawei WAF;Qnt Instâncias
+Huawei WAF;Throughput (Mbps)
+CBH;Qnt Instâncias
+CBH;Conexões Simultâneas
+CodeArts Enterprise;Quantidade de Usuários
+IMS;QTE de  RECURSOS por PADRÃO
+Huawei Auto Scaling;QTE de  RECURSOS por PADRÃO
+SMN;QTE de  RECURSOS por PADRÃO
+TMS;QTE de  RECURSOS por PADRÃO
+VPC Endpoint;QTE de  RECURSOS por PADRÃO
+DNS;QTE de  RECURSOS por PADRÃO
+ELB;QTE de  RECURSOS por PADRÃO
+VPC NAT Gateway;QTE de  RECURSOS por PADRÃO
+VPN;QTE de  RECURSOS por PADRÃO
+IAM;QTE de  RECURSOS por PADRÃO
+Cloud Eye;QTE de  RECURSOS por PADRÃO
+Cloud Eye + AOM;QTE de  RECURSOS por PADRÃO
+EIP;QTE de  RECURSOS por PADRÃO
+EIP Traffic Monitoring;QTE de  RECURSOS por PADRÃO
+SMC;QTE de  RECURSOS por PADRÃO
+Anti-DDoS;QTE de  RECURSOS por PADRÃO
+CBR;QTE de  RECURSOS por PADRÃO
+Huawei KMS;QTE de  RECURSOS por PADRÃO
+Basic On-Site Services;Período do Contrato
+Cloud Service Engineer Training;Turma
+EC2;RAM (GB)
+EC2;vCPU
+EC2 - GPU;GPU
+Auto Scaling;QTE de  RECURSOS por PADRÃO
+Serverless;QTE de  RECURSOS por PADRÃO
+EKS;vCPU
+EKS;RAM (GB)
+AWS ECS;vCPU
+AWS ECS;RAM (GB)
+ECR;QTE de  RECURSOS por PADRÃO
+VPC ;QTE de  RECURSOS por PADRÃO
+AWS Transit Gateway;QTE de  RECURSOS por PADRÃO
+AWS PrivateLink;QTE de  RECURSOS por PADRÃO
+Amazon VPC Lattice;QTE de  RECURSOS por PADRÃO
+AWS AppMesh;QTE de  RECURSOS por PADRÃO
+AWS Cloud MAP;QTE de  RECURSOS por PADRÃO
+Route 53;QTE de  RECURSOS por PADRÃO
+AWS Web Application Firewall;Qnt Instâncias
+AWS Web Application Firewall;Throughput (Mbps)
+Security Groups ;Qnt Instâncias
+Security Groups ;Throughput (Mbps)
+AWS Network Firewall;Qnt Instâncias
+AWS Network Firewall;Throughput (Mbps)
+Network Load Balancer;QTE de  RECURSOS por PADRÃO
+Application Load Balancer;QTE de  RECURSOS por PADRÃO
+Gateway Load Balancer;QTE de  RECURSOS por PADRÃO
+Nat Gateway;QTE de  RECURSOS por PADRÃO
+AWS VPN;QTE de  RECURSOS por PADRÃO
+Amazon ElastiCache for Redis/MemCache;QTE de  RECURSOS por PADRÃO
+AWS Identity and Access Management (IAM);QTE de  RECURSOS por PADRÃO
+AWS IAM Identiy Center;QTE de  RECURSOS por PADRÃO
+AWS Organizations;QTE de  RECURSOS por PADRÃO
+Amazon Cognito;QTE de  RECURSOS por PADRÃO
+Amazon Verified Permissions;QTE de  RECURSOS por PADRÃO
+AWS Resource Manager;QTE de  RECURSOS por PADRÃO
+AWS Directory Service;QTE de  RECURSOS por PADRÃO
+CloudTrail;QTE de  RECURSOS por PADRÃO
+CloudWatch;QTE de  RECURSOS por PADRÃO
+Amazon Managed Service for Prometheus;QTE de  RECURSOS por PADRÃO
+AWS X-Ray;QTE de  RECURSOS por PADRÃO
+AWS Artifact;QTE de  RECURSOS por PADRÃO
+Amazon GuardDuty;QTE de  RECURSOS por PADRÃO
+Amazon Inspector;QTE de  RECURSOS por PADRÃO
+AWS Security Hub;QTE de  RECURSOS por PADRÃO
+Amazon Security Lake;QTE de  RECURSOS por PADRÃO
+Amazon Detective;QTE de  RECURSOS por PADRÃO
+Amazon Config;QTE de  RECURSOS por PADRÃO
+Amazon  Shield;QTE de  RECURSOS por PADRÃO
+Amazon Macie;QTE de  RECURSOS por PADRÃO
+AWS EBS;TB
+Amazon S3;TB
+Amazon S3 Glacier;TB
+Amazon S3 Glacier Deep Archive;TB
+Amazon EFS;TB
+Amazon FSX for Windows;TB
+Amazon Fsx for Lustre;TB
+Amazon Storage Gateway;TB
+AWS Backup;TB
+AWS PostgreSQL;vCPU
+AWS PostgreSQL;RAM (GB)
+AWS MySQL;vCPU
+AWS MySQL;RAM (GB)
+Amazon DynamoDB;vCPU
+Amazon Keyspaces;vCPU
+Amazon Nepture;vCPU
+Amazon DocumentDB;vCPU
+Amazon DynamoDB;RAM (GB)
+Amazon Keyspaces;RAM (GB)
+Amazon Nepture;RAM (GB)
+Amazon DocumentDB;RAM (GB)
+AWS Migration Hub;Período do Contrato
+AWS Application Migration Service (MGN);Período do Contrato
+AWS App2Container;Período do Contrato
+AWS Database Migration Service;Período do Contrato
+AWS Snowball Edge;Período do Contrato
+AWS DataSync;Período do Contrato
+AWS Storage Gateway;Período do Contrato
+Amazon Q;QTE de  RECURSOS por PADRÃO
+Amazon Bedrock;QTE de  RECURSOS por PADRÃO
+Amazon Transcribe;QTE de  RECURSOS por PADRÃO
+Amazon Polly;QTE de  RECURSOS por PADRÃO
+Amazon Textract;QTE de  RECURSOS por PADRÃO
+Amazon Rekoginiton;QTE de  RECURSOS por PADRÃO
+Amazon Lex;QTE de  RECURSOS por PADRÃO
+Amazon Translate;QTE de  RECURSOS por PADRÃO
+Amazon Personalize;QTE de  RECURSOS por PADRÃO
+Amazon Augmented AI;QTE de  RECURSOS por PADRÃO
+Amazon Comprehend;QTE de  RECURSOS por PADRÃO
+Amazon Fraud Detector;QTE de  RECURSOS por PADRÃO
+Amazon Kendra;QTE de  RECURSOS por PADRÃO
+Amazon Sagemaker;QTE de  RECURSOS por PADRÃO
+Amazon QuickSight;Número de usuários
+Amazon Athena;Número de usuários
+AWS Data Exchange;Número de usuários
+AWS Lake Formation;Número de usuários
+Amazon DataZone;Número de usuários
+AWS Clean Rooms;Número de usuários
+AWS Glue;Número de usuários
+AWS EMR;Número de usuários
+Amazon Redshift;Número de usuários
+Amazon Kinesis Video Streams;Número de Eventos
+Amazon Kinesis Data Streams;Número de Eventos
+Amazon Data Firehose;Número de Eventos
+Amazon Managed Service for Apache Flink;Número de Eventos
+Amazon Simple Queue Service (SQS);Número de Eventos
+Amazon Simple Notification Service (SNS);Número de Eventos
+Amazon MQ;Número de Eventos
+Amazon Event Bridge;Número de Eventos
+API Gateway;Faixa
+AWS CodeCommit;Número de usuários
+AWS CodeBuild;Número de usuários
+AWS CodeDeploy;Número de usuários
+AWS CodePipeline;Número de usuários
+AWS CodeCatalyst;Número de usuários
+AWS KMS (Key Management Service);QTE de  RECURSOS por PADRÃO
+AWS CloudHSM;QTE de  RECURSOS por PADRÃO
+AWS Secrets Manager;QTE de  RECURSOS por PADRÃO
+AWS AppFlow;QTE de  RECURSOS por PADRÃO
+AWS Amplify;QTE de  RECURSOS por PADRÃO
+AWS Step Functions;QTE de  RECURSOS por PADRÃO
+Ops Insights for Oracle Autonomous Databases-Basic;OCPU Per Hour
+Ops Insights for Cloud Databases;OCPU Per Hour
+Ops Insights for External Oracle Databases and Host;Host CPU Core Per Hour
+Application Performance Monitoring Service-Tracing Data;100,000 Events Per Hour
+Application Performance Monitoring Service-Synthetic Usage;10 Monitor Runs Per Hour
+Database Management-External DB BYOL;Host CPU Core Per Hour
+Database Management-External DB;Host CPU Core Per Hour
+Database Management-Cloud Databases;OCPU Per Hour
+Ops Insights for Warehouse-Extract;Gigabyte Per Month
+Ops Insights for Warehouse-Instance;OCPU Per Hour
+Logging Analytics- Active Storage;Logging Analytics Storage Unit Per Month 0 - 35
+Logging Analytics- Active Storage;Logging Analytics Storage Unit Per Month 35 - 103
+Logging Analytics- Active Storage;Logging Analytics Storage Unit Per Month >103
+Ops Insights for Oracle Autonomous Databases-Basic;ECPU Per Hour
+Database Management-Autonomous Databases-ECPU;ECPU Per Hour
+Ops Insights for Oracle Autonomous Databases-Full;ECPU Per Hour
+Oracle Java Cloud Service-Enterprise;OCPU Per Hour
+Oracle Java Cloud Service-Standard;OCPU Per Hour
+Java Cloud Service-High Performance;OCPU Per Hour
+Java Cloud Service-Enterprise-BYOL;OCPU Per Hour
+Java Cloud Service-High Performance- BYOL;OCPU Per Hour
+Java Cloud Service-Standard-BYOL;OCPU Per Hour
+Oracle Visual Builder;OCPU Per Hour
+Oracle Visual Builder Studio-Additional Storage;Gigabyte Storage Capacity Per Month
+Oracle Digital Assistant Cloud Service;Request
+Oracle Mobile Hub Cloud Service;Request
+Big Data Service;OCPU Per Hour
+Speech;Transcription Hour 0 - 5
+Speech;Transcription Hour > 5
+Language-Custom Inferencing;1000 Transactions
+Language-Custom Inferencing-Dedicated;Inferencing Unit Hour 0
+;-15
+Language-Custom Inferencing-Dedicated;Inferencing Unit Hour > 15
+Language-Custom Training;Training Hour 0 - 15
+Language-Custom Training;Training Hour > 15
+Language-Text Translation;1000 Transactions 0 - 1
+Language-Text Translation;1000 Transactions > 1
+Oracle Analytics Cloud-Professional;OCPU Per Hour
+Oracle Analytics Cloud-Enterprise;OCPU Per Hour
+Oracle Analytics Cloud-Professional-BYOL;OCPU Per Hour
+Oracle Analytics Cloud-Enterprise-BYOL;OCPU Per Hour
+Essbase for Oracle Cloud Infrastructure;OCPU Per Hour
+Oracle Analytics-Professional;User Per Month
+Oracle Analytics-Enterprise;User Per Month
+Oracle Analytics Server for Oracle Cloud Infrastructure;OCPU Per Hour
+Oracle Cloud Infrastructure-File Storage;Gigabyte Storage Capacity per Month
+Oracle Cloud Infrastructure-Streaming-PUT or GET;Gigabytes of Data Transferred
+Oracle Cloud Infrastructure-Streaming-Storage;Gigabyte Per Hour
+Oracle Cloud Infrastructure-Object Storage- Requests;10,000 Requests per Month 0 - 5
+Oracle Cloud Infrastructure-Object Storage- Requests;10,000 Requests per Month > 5
+Oracle Cloud Infrastructure-Object Storage- Storage;Gigabyte Storage Capacity per Month 0 - 10
+Oracle Cloud Infrastructure-Object Storage- Storage;Gigabyte Storage Capacity per Month > 10
+Oracle Cloud Infrastructure-Block Volume Storage;Gigabyte Storage Capacity Per Month
+Oracle Cloud Infrastructure-Block Volume Performance;Performance Units Per Gigabyte Per Month
+Oracle Cloud Infrastructure-Data Retrieval - Storage;Gigabyte Storage Retrieved Per Month 0 - 10
+Oracle Cloud Infrastructure-Data Retrieval - Storage;Gigabyte Storage Retrieved Per Month > 10
+Oracle ZFS Storage-High Availability;Instance Per Hour
+Oracle Cloud Infrastructure-Key Management- Private Vault;Virtual Private Vault Per Hour
+Oracle Identity Cloud Service-Enterprise User;User Per Month
+Oracle Identity Cloud Service-Consumer User;User Per Month
+Oracle Identity Cloud Service-Enterprise User- BYOL;User Per Month
+Oracle Identity Cloud Service-Consumer User- BYOL;User Per Month
+Oracle Identity Foundation Cloud Service;Each
+Oracle Cloud Infrastructure-KMS Vault-Key Versions;Key Version per Month 0 - 20
+Oracle Cloud Infrastructure-KMS Vault-Key Versions;Key Version per Month > 20
+Oracle Cloud Infrastructure Identity and Access Management-External User;User Per Month
+Oracle Cloud Infrastructure Identity and Access Management-Oracle Apps Premium;User Per Month
+Oracle Cloud Infrastructure Identity and Access Management-Premium;User Per Month
+Oracle Cloud Infrastructure Identity and Access Management-SMS;1 SMS Message Sent 0 - 1000
+Oracle Cloud Infrastructure Identity and Access Management-SMS;1 SMS Message Sent > 1000
+Oracle Cloud Infrastructure Identity and Access Management-Token;Token 0 - 10000
+Oracle Cloud Infrastructure Identity and Access Management-Token;Token > 10000
+Oracle Cloud Infrastructure Identity and Access Management-Replication;User Per Month
+Oracle Threat Intelligence Service;API Calls
+Oracle Cloud Infrastructure-Web Application Firewall-Requests;1,000,000 Incoming Requests Per Month 0 - 10
+Oracle Cloud Infrastructure-Web Application Firewall-Requests;1,000,000 Incoming Requests Per Month 10
+;-1E+15
+Oracle Cloud Infrastructure-Web Application Firewall-Instance;Instance Per Month 0 - 1
+Oracle Cloud Infrastructure-Web Application Firewall-Instance;Instance Per Month 1 - 999999999999999
+Oracle Cloud Infrastructure-External Key Management;Key Version Per Month
+Oracle Integration Cloud Service-Standard;5K Messages Per Hour
+Oracle Integration Cloud Service-Enterprise;5K Messages Per Hour
+Oracle Integration Cloud Service-Standard-BYOL;20K Messages Per Hour
+Oracle Integration Cloud Service-Enterprise-BYOL;20K Messages Per Hour
+Oracle SOA Suite for Oracle Cloud Infrastructure;OCPU Per Hour
+Oracle SOA Suite for Oracle Cloud Infrastructure- with B2B Adapter for EDI;OCPU Per Hour
+Oracle Cloud Infrastructure Process Automation- User;Active Process User Per Hour
+Oracle Cloud Infrastructure Process Automation- Execution Pack;Execution Pack Per Month 0 - 1
+Oracle Cloud Infrastructure Process Automation- Execution Pack;Execution Pack Per Month 1 -
+;1E+15
+Oracle Data Integrator Cloud Service;OCPU Per Hour
+Oracle Data Integrator Cloud Service-BYOL;OCPU Per Hour
+Oracle Cloud Infrastructure-Data Integration- Workspace;Workspace Usage per Hour
+Oracle Cloud Infrastructure-Data Integration;Gigabyte of Data Processed per Hour
+Oracle Stream Analytics for Oracle Cloud Infrastructure;OCPU Per Hour
+Oracle Cloud Infrastructure-GoldenGate;OCPU Per Hour
+Oracle Cloud Infrastructure-GoldenGate-BYOL;OCPU Per Hour
+Oracle Cloud Infrastructure-Data Integration- Pipeline Operator Execution;Execution Hour 0 - 30
+Oracle Cloud Infrastructure-Data Integration- Pipeline Operator Execution;Execution Hour 30 -
+;1E+15
+Oracle Cloud Infrastructure-FastConnect 1 Gbps;Port Hour
+Oracle Cloud Infrastructure-FastConnect 10 Gbps;Port Hour
+Oracle Cloud Infrastructure-Outbound Data Transfer-Originating in North America, Europe, and UK;Gigabyte Outbound Data Transfer Per Month 0 - 10240
+Oracle Cloud Infrastructure-Outbound Data Transfer-Originating in North America, Europe, and UK;Gigabyte Outbound Data Transfer Per Month 10240 -
+;1E+15
+Oracle Cloud Infrastructure-Email Delivery;1,000 Emails Sent 0 - 3
+Oracle Cloud Infrastructure-Email Delivery;1,000 Emails Sent 3 - 999999999999999
+Oracle Cloud Infrastructure-Health Checks-Basic;Endpoints Per Month
+Oracle Cloud Infrastructure-Health Checks- Premium;Endpoints Per Month
+Oracle Cloud Infrastructure-Monitoring-Ingestion;Million Datapoints 0 - 500
+Oracle Cloud Infrastructure-Monitoring-Ingestion;Million Datapoints 500 - 999999999
+Oracle Cloud Infrastructure-Monitoring-Retrieval;Million Datapoints 0 - 1000
+Oracle Cloud Infrastructure-Monitoring-Retrieval;Million Datapoints 1000 - 999999999
+Oracle Cloud Infrastructure-Notifications-HTTPS Delivery;Million Delivery Operations 0 - 1
+Oracle Cloud Infrastructure-Notifications-HTTPS Delivery;Million Delivery Operations 1 - 999999999
+Oracle Cloud Infrastructure-Notifications-Email Delivery;1,000 Emails Sent 0 - 1
+Oracle Cloud Infrastructure-Notifications-Email Delivery;1,000 Emails Sent 1 - 999999999
+Oracle Cloud Infrastructure-Logging-Storage;Gigabyte Log Storage Per Month 0 - 10
+Oracle Cloud Infrastructure-Logging-Storage;Gigabyte Log Storage Per Month 10 - 999999999
+Oracle Cloud Infrastructure-Notifications-SMS Outbound to Country;1 SMS Message Sent 0 - 100
+Oracle Cloud Infrastructure-Notifications-SMS Outbound to Country;1 SMS Message Sent 100 - 999999999999999
+Oracle Cloud Infrastructure-Notifications-SMS Outbound to Country;1 SMS Message Sent 0 - 100
+Oracle Cloud Infrastructure-Notifications-SMS Outbound to Country;1 SMS Message Sent 100 - 999999999999999
+Oracle Cloud Infrastructure-Notifications-SMS Outbound to Country;1 SMS Message Sent 0 - 100
+Oracle Cloud Infrastructure-Notifications-SMS Outbound to Country;1 SMS Message Sent 100 - 999999999999999
+Oracle Cloud Infrastructure-Notifications-SMS Outbound to Country;1 SMS Message Sent 0 - 100
+Oracle Cloud Infrastructure-Notifications-SMS Outbound to Country;1 SMS Message Sent 100 - 999999999999999
+Oracle Cloud Infrastructure-Notifications-SMS Outbound to Country;1 SMS Message Sent 0 - 100
+Oracle Cloud Infrastructure-Notifications-SMS Outbound to Country;1 SMS Message Sent 100 - 999999999999999
+Oracle Cloud Infrastructure-Load Balancer Base;Load Balancer Hour 0 - 744
+Oracle Cloud Infrastructure-Load Balancer Base;Load Balancer Hour 744 - 999999999
+Oracle Cloud Infrastructure-Load Balancer Bandwidth;Mbps Per Hour 0 - 7440
+Oracle Cloud Infrastructure-Load Balancer Bandwidth;Mbps Per Hour 7440 - 999999999
+Oracle Cloud Infrastructure-FastConnect 100Gbps;Port Hour
+Oracle Cloud Infrastructure-Outbound Data Transfer-Originating in APAC, Japan, and South America;Gigabyte Outbound
+;Data Transfer Per Month 0 - 10240
+Oracle Cloud Infrastructure-Outbound Data Transfer-Originating in APAC, Japan, and South America;Gigabyte Outbound Data Transfer Per Month 10240 - 999999999999999
+Oracle Cloud Infrastructure-Outbound Data Transfer-Originating in Middle East and Africa;Gigabyte Outbound
+;Data Transfer Per Month 0 - 10240
+Oracle Cloud Infrastructure-Outbound Data Transfer-Originating in Middle East and Africa;Gigabyte Outbound Data Transfer Per Month 10240 - 999999999999999
+Oracle Functions-Execution Time-10,000 Gigabyte Memory;Seconds 0 - 40
+Oracle Functions-Execution Time-10,000 Gigabyte Memory;Seconds 40 - 999999999
+Oracle Functions-Invocations;1,000,000 Function Invocations 0 - 2
+Oracle Functions-Invocations;1,000,000 Function Invocations 2 - 999999999
+Oracle Cloud Infrastructure-Compute-Microsoft SQL Enterprise;OCPU Per Hour
+Oracle Cloud Infrastructure-Compute-Microsoft SQL Standard;OCPU Per Hour
+Oracle Cloud Infrastructure-API Gateway- 1,000,000 API Calls;1,000,000 API Calls Per Month
+Oracle Cloud Infrastructure-Compute-Standard-X9;OCPU Per Hour
+Oracle Cloud Infrastructure-Compute-Standard- X9-Memory;Gigabyte Per Hour
+Oracle Container Engine for Kubernetes- Enhanced Cluster;Cluster Per Hour
+Oracle Cloud Infrastructure-Compute-Standard- E5-OCPU;OCPU Per Hour
+Oracle Cloud Infrastructure-Compute-Standard- E5-Memory;Gigabytes Per Hour
+MySQL Database-ECPU;ECPU Per Hour
+Oracle Database Cloud Service-Enterprise Edition-General Purpose;OCPU Per Hour
+Oracle Database Cloud Service-Enterprise Edition Extreme Performance-General Purpose;OCPU Per Hour
+Oracle Database Cloud Service-Enterprise Edition High Performance-General Purpose;OCPU Per Hour
+Oracle Database Cloud Service-Standard Edition- General Purpose;OCPU Per Hour
+Oracle Database Backup Service-Outbound Data Transfer;Gigabyte Outbound Data Transfer per Month 0 - 1
+Oracle Database Backup Service-Outbound Data Transfer;Gigabyte Outbound Data Transfer per Month 1 - 10240
+Oracle Database Backup Service-Outbound Data Transfer;Gigabyte Outbound Data Transfer per Month 10240 - 51200
+Oracle Database Backup Service-Outbound Data Transfer;Gigabyte Outbound Data Transfer per Month 51200 - 153600
+Oracle Database Backup Service-Outbound Data Transfer;Gigabyte Outbound Data Transfer per Month 153600 - 512000
+Oracle Database Backup Service-Outbound Data Transfer;Gigabyte Outbound Data Transfer per Month 512000 - 999999999
+Oracle Database Backup Service-GET and all other Requests;10000 Requests Per Month
+Oracle Database Backup Service-PUT, COPY, POST or LIST Requests;1000 Requests Per Month
+Oracle Database Backup Service-Storage Capacity;Gigabyte Storage Capacity per Month 0 -1024
+Oracle Database Backup Service-Storage Capacity;Gigabyte Storage Capacity per Month 1024 - 51200
+Oracle Database Backup Service-Storage Capacity;Gigabyte Storage Capacity per Month 51200 - 512000
+Oracle Database Backup Service-Storage Capacity;Gigabyte Storage Capacity per Month 512000 - 1024000
+Oracle Database Backup Service-Storage Capacity;Gigabyte Storage Capacity per Month 1024000 - 5120000
+Oracle Database Backup Service-Storage Capacity;Gigabyte Storage Capacity per Month 5120000 - 999999999
+Oracle Database Cloud Service-All Editions-BYOL;OCPU Per Hour
+Exadata Database OCPU-Dedicated Infrastructure;OCPU Per Hour
+Exadata Database OCPU-Dedicated Infrastructure-BYOL;
+Oracle NoSQL Database Cloud Service-Write;Write Unit Per Month
+Oracle NoSQL Database Cloud Service-Read;Read Unit Per Month
+Oracle NoSQL Database Cloud Service-Storage;Gigabyte Storage Capacity Per Month
+Oracle Database Backup Cloud-Object Storage;Gigabyte Storage Capacity Per Month
+Oracle Autonomous Transaction Processing- Exadata Storage;Terabyte Storage Capacity Per Month
+Oracle Base Database Service-Standard;OCPU Per Hour
+Oracle Base Database Service-Enterprise;OCPU Per Hour
+Oracle Base Database Service-High Performance;OCPU Per Hour
+Oracle Base Database Service-Extreme Performance;OCPU Per Hour
+Oracle Base Database Service-BYOL;OCPU Per Hour
+Oracle Cloud SQL-Compute Capacity;OCPU Per Hour
+Oracle Big Data Service-Compute-Standard;OCPU Per Hour
+Oracle Cloud Infrastructure-Data Safe for Database Cloud Service-Audit Record Collection Over 1 Million Records;10,000 Audit Records Per Target Per Month
+Oracle Cloud Infrastructure-Data Safe for Database Cloud Service;Each
+MySQL HeatWave-Standard;Node Per Hour
+MySQL Database for HeatWave-Standard;Node Per Hour
+Oracle Autonomous Transaction Processing- Dedicated;OCPU Per Hour
+Oracle Autonomous Data Warehouse-Dedicated;OCPU Per Hour
+Oracle Autonomous Transaction Processing- Dedicated-BYOL;OCPU Per Hour
+Oracle Autonomous Data Warehouse-Dedicated- BYOL;OCPU Per Hour
+Oracle Autonomous JSON Database;OCPU Per Hour
+MySQL Database-Storage;Gigabyte Storage Capacity per Month
+MySQL Database-Backup Storage;Gigabyte Storage Capacity per Month
+Oracle Cloud Infrastructure-Data Safe for On- Premises Databases & Databases on Compute;Target Database Per Month 0 - 100
+Oracle Cloud Infrastructure-Data Safe for On- Premises Databases & Databases on Compute;Target Database Per Month 100 - 300
+Oracle Cloud Infrastructure-Data Safe for On- Premises Databases & Databases on Compute;Target Database Per Month 300 - 500
+Oracle Cloud Infrastructure-Data Safe for On- Premises Databases & Databases on Compute;Target Database Per Month 500 - 999999999999999
+Oracle Cloud Infrastructure-Data Safe for On- Premises Databases & Databases on Compute;10,000 Audit Records Per Target Per Month
+Oracle APEX Application Development;OCPU Per Hour
+Oracle Cloud Infrastructure Database Migration;Migration Hour
+Exadata Cloud Infrastructure-Quarter Rack-X9M;Hosted Environment Per Hour
+Exadata Cloud Infrastructure-Database Server- X9M;Hosted Environment Per Hour
+Exadata Cloud Infrastructure-Storage Server-X9M;Hosted Environment Per Hour
+MySQL Database for HeatWave-Bare Metal Standard;Node Per Hour
+Oracle Cloud Infrastructure Search with OpenSearch HA;Node Per Hour
+Oracle NoSQL Database Cloud-Write-Auto;Write Unit Per Month
+Oracle NoSQL Database Cloud-Read-Auto;Read Unit Per Month
+Oracle NoSQL Database Cloud-Hosted Environment;Hosted Environment Per Month
+Oracle Cloud Infrastructure Application Performance Monitoring Service-Stack Monitoring;Standard Edition
+MySQL Database-Standard-Intel X9-Compute;OCPU Per Hour
+MySQL Database-Standard-Intel X9-Memory;Gigabyte Per Hour
+Oracle Autonomous Data Warehouse-ECPU;ECPU Per Hour
+Oracle Autonomous Transaction Processing- ECPU;ECPU Per Hour
+Oracle Autonomous Data Warehouse-ECPU- BYOL;ECPU Per Hour
+Oracle Autonomous Transaction Processing- ECPU-BYOL;ECPU Per Hour
+Oracle Autonomous Database Storage for Transaction Processing;Gigabyte Storage Capacity Per Month
+Oracle Autonomous Data Warehouse-Dedicated- ECPU;ECPU Per Hour
+Oracle Autonomous Transaction Processing- Dedicated-ECPU;ECPU Per Hour
+Oracle Autonomous Data Warehouse-Dedicated- ECPU-BYOL;ECPU Per Hour
+Oracle Autonomous Transaction Processing- Dedicated-ECPU-BYOL;ECPU Per Hour
+Oracle Autonomous Database Storage;Gigabyte Storage Capacity Per Month
+Oracle Cloud Infrastructure-HeatWave-Storage;Gigabyte Storage Capacity Per Month
+Oracle Cloud Infrastructure-HeatWave;HeatWave Capacity Per Hour
