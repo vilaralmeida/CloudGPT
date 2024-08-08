@@ -7,7 +7,7 @@ EVS;TB
 OBS;TB
 CCE;vCPU
 CCE;RAM (GB)
-SWR;QTE de  RECURSOS por PADRÃO
+SWR;QTE de  RECURSOS por PADRaO
 CGS;Nós
 Huawei MySQL ;vCPU
 Huawei MySQL ;RAM (GB)
@@ -17,76 +17,76 @@ Huawei WAF;Qnt Instâncias
 Huawei WAF;Throughput (Mbps)
 CBH;Qnt Instâncias
 CBH;Conexões Simultâneas
-CodeArts Enterprise;Quantidade de Usuários
-IMS;QTE de  RECURSOS por PADRÃO
-Huawei Auto Scaling;QTE de  RECURSOS por PADRÃO
-SMN;QTE de  RECURSOS por PADRÃO
-TMS;QTE de  RECURSOS por PADRÃO
-VPC Endpoint;QTE de  RECURSOS por PADRÃO
-DNS;QTE de  RECURSOS por PADRÃO
-ELB;QTE de  RECURSOS por PADRÃO
-VPC NAT Gateway;QTE de  RECURSOS por PADRÃO
-VPN;QTE de  RECURSOS por PADRÃO
-IAM;QTE de  RECURSOS por PADRÃO
-Cloud Eye;QTE de  RECURSOS por PADRÃO
-Cloud Eye + AOM;QTE de  RECURSOS por PADRÃO
-EIP;QTE de  RECURSOS por PADRÃO
-EIP Traffic Monitoring;QTE de  RECURSOS por PADRÃO
-SMC;QTE de  RECURSOS por PADRÃO
-Anti-DDoS;QTE de  RECURSOS por PADRÃO
-CBR;QTE de  RECURSOS por PADRÃO
-Huawei KMS;QTE de  RECURSOS por PADRÃO
+CodeArts Enterprise;Quantidade de Usuarios
+IMS;QTE de  RECURSOS por PADRaO
+Huawei Auto Scaling;QTE de  RECURSOS por PADRaO
+SMN;QTE de  RECURSOS por PADRaO
+TMS;QTE de  RECURSOS por PADRaO
+VPC Endpoint;QTE de  RECURSOS por PADRaO
+DNS;QTE de  RECURSOS por PADRaO
+ELB;QTE de  RECURSOS por PADRaO
+VPC NAT Gateway;QTE de  RECURSOS por PADRaO
+VPN;QTE de  RECURSOS por PADRaO
+IAM;QTE de  RECURSOS por PADRaO
+Cloud Eye;QTE de  RECURSOS por PADRaO
+Cloud Eye + AOM;QTE de  RECURSOS por PADRaO
+EIP;QTE de  RECURSOS por PADRaO
+EIP Traffic Monitoring;QTE de  RECURSOS por PADRaO
+SMC;QTE de  RECURSOS por PADRaO
+Anti-DDoS;QTE de  RECURSOS por PADRaO
+CBR;QTE de  RECURSOS por PADRaO
+Huawei KMS;QTE de  RECURSOS por PADRaO
 Basic On-Site Services;Período do Contrato
 Cloud Service Engineer Training;Turma
 EC2;RAM (GB)
 EC2;vCPU
 EC2 - GPU;GPU
-Auto Scaling;QTE de  RECURSOS por PADRÃO
-Serverless;QTE de  RECURSOS por PADRÃO
+Auto Scaling;QTE de  RECURSOS por PADRaO
+Serverless;QTE de  RECURSOS por PADRaO
 EKS;vCPU
 EKS;RAM (GB)
 AWS ECS;vCPU
 AWS ECS;RAM (GB)
-ECR;QTE de  RECURSOS por PADRÃO
-VPC ;QTE de  RECURSOS por PADRÃO
-AWS Transit Gateway;QTE de  RECURSOS por PADRÃO
-AWS PrivateLink;QTE de  RECURSOS por PADRÃO
-Amazon VPC Lattice;QTE de  RECURSOS por PADRÃO
-AWS AppMesh;QTE de  RECURSOS por PADRÃO
-AWS Cloud MAP;QTE de  RECURSOS por PADRÃO
-Route 53;QTE de  RECURSOS por PADRÃO
+ECR;QTE de  RECURSOS por PADRaO
+VPC ;QTE de  RECURSOS por PADRaO
+AWS Transit Gateway;QTE de  RECURSOS por PADRaO
+AWS PrivateLink;QTE de  RECURSOS por PADRaO
+Amazon VPC Lattice;QTE de  RECURSOS por PADRaO
+AWS AppMesh;QTE de  RECURSOS por PADRaO
+AWS Cloud MAP;QTE de  RECURSOS por PADRaO
+Route 53;QTE de  RECURSOS por PADRaO
 AWS Web Application Firewall;Qnt Instâncias
 AWS Web Application Firewall;Throughput (Mbps)
 Security Groups ;Qnt Instâncias
 Security Groups ;Throughput (Mbps)
 AWS Network Firewall;Qnt Instâncias
 AWS Network Firewall;Throughput (Mbps)
-Network Load Balancer;QTE de  RECURSOS por PADRÃO
-Application Load Balancer;QTE de  RECURSOS por PADRÃO
-Gateway Load Balancer;QTE de  RECURSOS por PADRÃO
-Nat Gateway;QTE de  RECURSOS por PADRÃO
-AWS VPN;QTE de  RECURSOS por PADRÃO
-Amazon ElastiCache for Redis/MemCache;QTE de  RECURSOS por PADRÃO
-AWS Identity and Access Management (IAM);QTE de  RECURSOS por PADRÃO
-AWS IAM Identiy Center;QTE de  RECURSOS por PADRÃO
-AWS Organizations;QTE de  RECURSOS por PADRÃO
-Amazon Cognito;QTE de  RECURSOS por PADRÃO
-Amazon Verified Permissions;QTE de  RECURSOS por PADRÃO
-AWS Resource Manager;QTE de  RECURSOS por PADRÃO
-AWS Directory Service;QTE de  RECURSOS por PADRÃO
-CloudTrail;QTE de  RECURSOS por PADRÃO
-CloudWatch;QTE de  RECURSOS por PADRÃO
-Amazon Managed Service for Prometheus;QTE de  RECURSOS por PADRÃO
-AWS X-Ray;QTE de  RECURSOS por PADRÃO
-AWS Artifact;QTE de  RECURSOS por PADRÃO
-Amazon GuardDuty;QTE de  RECURSOS por PADRÃO
-Amazon Inspector;QTE de  RECURSOS por PADRÃO
-AWS Security Hub;QTE de  RECURSOS por PADRÃO
-Amazon Security Lake;QTE de  RECURSOS por PADRÃO
-Amazon Detective;QTE de  RECURSOS por PADRÃO
-Amazon Config;QTE de  RECURSOS por PADRÃO
-Amazon  Shield;QTE de  RECURSOS por PADRÃO
-Amazon Macie;QTE de  RECURSOS por PADRÃO
+Network Load Balancer;QTE de  RECURSOS por PADRaO
+Application Load Balancer;QTE de  RECURSOS por PADRaO
+Gateway Load Balancer;QTE de  RECURSOS por PADRaO
+Nat Gateway;QTE de  RECURSOS por PADRaO
+AWS VPN;QTE de  RECURSOS por PADRaO
+Amazon ElastiCache for Redis/MemCache;QTE de  RECURSOS por PADRaO
+AWS Identity and Access Management (IAM);QTE de  RECURSOS por PADRaO
+AWS IAM Identiy Center;QTE de  RECURSOS por PADRaO
+AWS Organizations;QTE de  RECURSOS por PADRaO
+Amazon Cognito;QTE de  RECURSOS por PADRaO
+Amazon Verified Permissions;QTE de  RECURSOS por PADRaO
+AWS Resource Manager;QTE de  RECURSOS por PADRaO
+AWS Directory Service;QTE de  RECURSOS por PADRaO
+CloudTrail;QTE de  RECURSOS por PADRaO
+CloudWatch;QTE de  RECURSOS por PADRaO
+Amazon Managed Service for Prometheus;QTE de  RECURSOS por PADRaO
+AWS X-Ray;QTE de  RECURSOS por PADRaO
+AWS Artifact;QTE de  RECURSOS por PADRaO
+Amazon GuardDuty;QTE de  RECURSOS por PADRaO
+Amazon Inspector;QTE de  RECURSOS por PADRaO
+AWS Security Hub;QTE de  RECURSOS por PADRaO
+Amazon Security Lake;QTE de  RECURSOS por PADRaO
+Amazon Detective;QTE de  RECURSOS por PADRaO
+Amazon Config;QTE de  RECURSOS por PADRaO
+Amazon  Shield;QTE de  RECURSOS por PADRaO
+Amazon Macie;QTE de  RECURSOS por PADRaO
 AWS EBS;TB
 Amazon S3;TB
 Amazon S3 Glacier;TB
@@ -115,49 +115,49 @@ AWS Database Migration Service;Período do Contrato
 AWS Snowball Edge;Período do Contrato
 AWS DataSync;Período do Contrato
 AWS Storage Gateway;Período do Contrato
-Amazon Q;QTE de  RECURSOS por PADRÃO
-Amazon Bedrock;QTE de  RECURSOS por PADRÃO
-Amazon Transcribe;QTE de  RECURSOS por PADRÃO
-Amazon Polly;QTE de  RECURSOS por PADRÃO
-Amazon Textract;QTE de  RECURSOS por PADRÃO
-Amazon Rekoginiton;QTE de  RECURSOS por PADRÃO
-Amazon Lex;QTE de  RECURSOS por PADRÃO
-Amazon Translate;QTE de  RECURSOS por PADRÃO
-Amazon Personalize;QTE de  RECURSOS por PADRÃO
-Amazon Augmented AI;QTE de  RECURSOS por PADRÃO
-Amazon Comprehend;QTE de  RECURSOS por PADRÃO
-Amazon Fraud Detector;QTE de  RECURSOS por PADRÃO
-Amazon Kendra;QTE de  RECURSOS por PADRÃO
-Amazon Sagemaker;QTE de  RECURSOS por PADRÃO
-Amazon QuickSight;Número de usuários
-Amazon Athena;Número de usuários
-AWS Data Exchange;Número de usuários
-AWS Lake Formation;Número de usuários
-Amazon DataZone;Número de usuários
-AWS Clean Rooms;Número de usuários
-AWS Glue;Número de usuários
-AWS EMR;Número de usuários
-Amazon Redshift;Número de usuários
-Amazon Kinesis Video Streams;Número de Eventos
-Amazon Kinesis Data Streams;Número de Eventos
-Amazon Data Firehose;Número de Eventos
-Amazon Managed Service for Apache Flink;Número de Eventos
-Amazon Simple Queue Service (SQS);Número de Eventos
-Amazon Simple Notification Service (SNS);Número de Eventos
-Amazon MQ;Número de Eventos
-Amazon Event Bridge;Número de Eventos
+Amazon Q;QTE de  RECURSOS por PADRaO
+Amazon Bedrock;QTE de  RECURSOS por PADRaO
+Amazon Transcribe;QTE de  RECURSOS por PADRaO
+Amazon Polly;QTE de  RECURSOS por PADRaO
+Amazon Textract;QTE de  RECURSOS por PADRaO
+Amazon Rekoginiton;QTE de  RECURSOS por PADRaO
+Amazon Lex;QTE de  RECURSOS por PADRaO
+Amazon Translate;QTE de  RECURSOS por PADRaO
+Amazon Personalize;QTE de  RECURSOS por PADRaO
+Amazon Augmented AI;QTE de  RECURSOS por PADRaO
+Amazon Comprehend;QTE de  RECURSOS por PADRaO
+Amazon Fraud Detector;QTE de  RECURSOS por PADRaO
+Amazon Kendra;QTE de  RECURSOS por PADRaO
+Amazon Sagemaker;QTE de  RECURSOS por PADRaO
+Amazon QuickSight;Numero de usuarios
+Amazon Athena;Numero de usuarios
+AWS Data Exchange;Numero de usuarios
+AWS Lake Formation;Numero de usuarios
+Amazon DataZone;Numero de usuarios
+AWS Clean Rooms;Numero de usuarios
+AWS Glue;Numero de usuarios
+AWS EMR;Numero de usuarios
+Amazon Redshift;Numero de usuarios
+Amazon Kinesis Video Streams;Numero de Eventos
+Amazon Kinesis Data Streams;Numero de Eventos
+Amazon Data Firehose;Numero de Eventos
+Amazon Managed Service for Apache Flink;Numero de Eventos
+Amazon Simple Queue Service (SQS);Numero de Eventos
+Amazon Simple Notification Service (SNS);Numero de Eventos
+Amazon MQ;Numero de Eventos
+Amazon Event Bridge;Numero de Eventos
 API Gateway;Faixa
-AWS CodeCommit;Número de usuários
-AWS CodeBuild;Número de usuários
-AWS CodeDeploy;Número de usuários
-AWS CodePipeline;Número de usuários
-AWS CodeCatalyst;Número de usuários
-AWS KMS (Key Management Service);QTE de  RECURSOS por PADRÃO
-AWS CloudHSM;QTE de  RECURSOS por PADRÃO
-AWS Secrets Manager;QTE de  RECURSOS por PADRÃO
-AWS AppFlow;QTE de  RECURSOS por PADRÃO
-AWS Amplify;QTE de  RECURSOS por PADRÃO
-AWS Step Functions;QTE de  RECURSOS por PADRÃO
+AWS CodeCommit;Numero de usuarios
+AWS CodeBuild;Numero de usuarios
+AWS CodeDeploy;Numero de usuarios
+AWS CodePipeline;Numero de usuarios
+AWS CodeCatalyst;Numero de usuarios
+AWS KMS (Key Management Service);QTE de  RECURSOS por PADRaO
+AWS CloudHSM;QTE de  RECURSOS por PADRaO
+AWS Secrets Manager;QTE de  RECURSOS por PADRaO
+AWS AppFlow;QTE de  RECURSOS por PADRaO
+AWS Amplify;QTE de  RECURSOS por PADRaO
+AWS Step Functions;QTE de  RECURSOS por PADRaO
 Ops Insights for Oracle Autonomous Databases-Basic;OCPU Per Hour
 Ops Insights for Cloud Databases;OCPU Per Hour
 Ops Insights for External Oracle Databases and Host;Host CPU Core Per Hour

@@ -1,42 +1,42 @@
 ﻿PRODUTO;SUB-CATEGORIA
-ECS Tipo S;Serviço de Nuvem Elástica
-ECS Tipo C;Serviço de Nuvem Elástica
-EVS;Serviço de Volume Elástico
-OBS;Serviço de Armazenamento de Objetos
-CCE;Serviço de Container em Nuvem
+ECS Tipo S;Servico de Nuvem Elastica
+ECS Tipo C;Servico de Nuvem Elastica
+EVS;Servico de Volume Elastico
+OBS;Servico de Armazenamento de Objetos
+CCE;Servico de Container em Nuvem
 SWR;Repositório de Software pare Container
-CGS;Segurança para Containers
-Huawei MySQL ;Serviço de Banco de Dados Relacional
-Huawei PostgreSQL;Serviço de Banco de Dados Relacional
-Huawei WAF;Serviço de Firewall
-CBH;Segurança para Host
-CodeArts Enterprise;Serviços de Inteligência Artificial e Machine Learning
-IMS;Serviço de Gestão de Imagens
-Huawei Auto Scaling;Escalonamento Automático
-SMN;Serviço de Mensagens
-TMS;Serviço de Gerenciamento de TAGs
+CGS;Seguranca para Containers
+Huawei MySQL ;Servico de Banco de Dados Relacional
+Huawei PostgreSQL;Servico de Banco de Dados Relacional
+Huawei WAF;Servico de Firewall
+CBH;Seguranca para Host
+CodeArts Enterprise;Servicos de Inteligência Artificial e Machine Learning
+IMS;Servico de Gestao de Imagens
+Huawei Auto Scaling;Escalonamento Automatico
+SMN;Servico de Mensagens
+TMS;Servico de Gerenciamento de TAGs
 VPC Endpoint;Nuvem Privada Virtual
-DNS;Serviço de DNS
-ELB;Balanceamento de Tráfego
+DNS;Servico de DNS
+ELB;Balanceamento de Trafego
 VPC NAT Gateway;Gateway NAT
-VPN;Serviço de VPN
+VPN;Servico de VPN
 IAM;Gerenciamento de Identidade e Acesso
-Cloud Eye;Serviço de Visualização de Logs
-Cloud Eye + AOM;Serviço de Monitoração
-EIP;Serviço de IP Elástico
-EIP Traffic Monitoring;Serviço de Monitoramento do Tráfego de IP Elástico
-SMC;Central de Monitoramento de Segurança
-Anti-DDoS;Segurança Anti-DDoS
-CBR;Serviço de Backup e Recuperação de Dados
-Huawei KMS;Armazenamento e Gerenciamento de Chaves Criptográficas
-Basic On-Site Services;Serviços Básicos On Site
+Cloud Eye;Servico de Visualizacao de Logs
+Cloud Eye + AOM;Servico de Monitoracao
+EIP;Servico de IP Elastico
+EIP Traffic Monitoring;Servico de Monitoramento do Trafego de IP Elastico
+SMC;Central de Monitoramento de Seguranca
+Anti-DDoS;Seguranca Anti-DDoS
+CBR;Servico de Backup e Recuperacao de Dados
+Huawei KMS;Armazenamento e Gerenciamento de Chaves Criptograficas
+Basic On-Site Services;Servicos Basicos On Site
 Cloud Service Engineer Training;Treinamento
-EC2;Serviço de Nuvem Elástica
-EC2 - GPU;Serviço de Nuvem Elástica
-Auto Scaling;Escalonamento Automático
-Serverless;Serviços de Computação sem Servidor
-EKS;Serviço de Container em Nuvem
-AWS ECS;Serviço de Container em Nuvem
+EC2;Servico de Nuvem Elastica
+EC2 - GPU;Servico de Nuvem Elastica
+Auto Scaling;Escalonamento Automatico
+Serverless;Servicos de Computacao sem Servidor
+EKS;Servico de Container em Nuvem
+AWS ECS;Servico de Container em Nuvem
 ECR;Repositório de Software pare Container
 VPC ;Nuvem Privada Virtual
 AWS Transit Gateway;Gateway NAT
@@ -44,16 +44,16 @@ AWS PrivateLink;Nuvem Privada Virtual
 Amazon VPC Lattice;Nuvem Privada Virtual
 AWS AppMesh;Nuvem Privada Virtual
 AWS Cloud MAP;Nuvem Privada Virtual
-Route 53;Serviço de DNS
-AWS Web Application Firewall;Serviço de Firewall
-Security Groups ;Serviço de Firewall
-AWS Network Firewall;Serviço de Firewall
-Network Load Balancer;Balanceamento de Tráfego
-Application Load Balancer;Balanceamento de Tráfego
-Gateway Load Balancer;Balanceamento de Tráfego
+Route 53;Servico de DNS
+AWS Web Application Firewall;Servico de Firewall
+Security Groups ;Servico de Firewall
+AWS Network Firewall;Servico de Firewall
+Network Load Balancer;Balanceamento de Trafego
+Application Load Balancer;Balanceamento de Trafego
+Gateway Load Balancer;Balanceamento de Trafego
 Nat Gateway;Gateway NAT
-AWS VPN;Serviço de VPN
-Amazon ElastiCache for Redis/MemCache;Serviço de Cache Gerenciado
+AWS VPN;Servico de VPN
+Amazon ElastiCache for Redis/MemCache;Servico de Cache Gerenciado
 AWS Identity and Access Management (IAM);Gerenciamento de Identidade e Acesso
 AWS IAM Identiy Center;Gerenciamento de Identidade e Acesso
 AWS Organizations;Gerenciamento de Identidade e Acesso
@@ -61,85 +61,85 @@ Amazon Cognito;Gerenciamento de Identidade e Acesso
 Amazon Verified Permissions;Gerenciamento de Identidade e Acesso
 AWS Resource Manager;Gerenciamento de Identidade e Acesso
 AWS Directory Service;Gerenciamento de Identidade e Acesso
-CloudTrail;Serviços de Governança
-CloudWatch;Serviço de Visualização de Logs
-Amazon Managed Service for Prometheus;Serviço de Monitoração
-AWS X-Ray;Serviço de Tracing
-AWS Artifact;Serviços de Conformidade e Segurança
-Amazon GuardDuty;Serviços de Conformidade e Segurança
-Amazon Inspector;Serviços de Conformidade e Segurança
-AWS Security Hub;Serviços de Conformidade e Segurança
-Amazon Security Lake;Serviços de Conformidade e Segurança
-Amazon Detective;Serviços de Conformidade e Segurança
-Amazon Config;Serviços de Conformidade e Segurança
-Amazon  Shield;Serviços de Conformidade e Segurança
-Amazon Macie;Serviços de Conformidade e Segurança
-AWS EBS;Serviços de Armazenamento de Blocos
-Amazon S3;Serviço de Armazenamento de Objetos
-Amazon S3 Glacier;Serviço de Armazenamento de Objetos para Archiving
-Amazon S3 Glacier Deep Archive;Serviço de Armazenamento de Objetos para Archiving
-Amazon EFS;Serviço de Armazenamento de Sistemas de Arquivos
-Amazon FSX for Windows;Serviço de Armazenamento de Sistemas de Arquivos
-Amazon Fsx for Lustre;Serviço de Armazenamento de Sistemas de Arquivos
-Amazon Storage Gateway;Serviço de Armazenamento de Sistemas de Arquivos
-AWS Backup;Serviço de Backup e Recuperação de Dados
-AWS PostgreSQL;Serviço de Banco de Dados Relacional
-AWS MySQL;Serviço de Banco de Dados Relacional
-Amazon Keyspaces;Serviço de Banco de Dados NoSQL
-Amazon Nepture;Serviço de Banco de Dados NoSQL
-Amazon DynamoDB;Serviço de Banco de Dados NoSQL
-Amazon Keyspaces;Serviço de Banco de Dados NoSQL
-Amazon DocumentDB;Serviço de Banco de Dados NoSQL
-AWS Migration Hub;Serviço de Migração de Container e de Servidores
-AWS Application Migration Service (MGN);Serviço de Migração de Container e de Servidores
-AWS App2Container;Serviço de Migração de Container e de Servidores
-AWS Database Migration Service;Serviço de Migração de Banco de Dados
-AWS Snowball Edge;Serviço de Migração de Armazenamento
-AWS DataSync;Serviço de Migração de Armazenamento
-AWS Storage Gateway;Serviço de Migração de Armazenamento
+CloudTrail;Servicos de Governanca
+CloudWatch;Servico de Visualizacao de Logs
+Amazon Managed Service for Prometheus;Servico de Monitoracao
+AWS X-Ray;Servico de Tracing
+AWS Artifact;Servicos de Conformidade e Seguranca
+Amazon GuardDuty;Servicos de Conformidade e Seguranca
+Amazon Inspector;Servicos de Conformidade e Seguranca
+AWS Security Hub;Servicos de Conformidade e Seguranca
+Amazon Security Lake;Servicos de Conformidade e Seguranca
+Amazon Detective;Servicos de Conformidade e Seguranca
+Amazon Config;Servicos de Conformidade e Seguranca
+Amazon  Shield;Servicos de Conformidade e Seguranca
+Amazon Macie;Servicos de Conformidade e Seguranca
+AWS EBS;Servicos de Armazenamento de Blocos
+Amazon S3;Servico de Armazenamento de Objetos
+Amazon S3 Glacier;Servico de Armazenamento de Objetos para Archiving
+Amazon S3 Glacier Deep Archive;Servico de Armazenamento de Objetos para Archiving
+Amazon EFS;Servico de Armazenamento de Sistemas de Arquivos
+Amazon FSX for Windows;Servico de Armazenamento de Sistemas de Arquivos
+Amazon Fsx for Lustre;Servico de Armazenamento de Sistemas de Arquivos
+Amazon Storage Gateway;Servico de Armazenamento de Sistemas de Arquivos
+AWS Backup;Servico de Backup e Recuperacao de Dados
+AWS PostgreSQL;Servico de Banco de Dados Relacional
+AWS MySQL;Servico de Banco de Dados Relacional
+Amazon Keyspaces;Servico de Banco de Dados NoSQL
+Amazon Nepture;Servico de Banco de Dados NoSQL
+Amazon DynamoDB;Servico de Banco de Dados NoSQL
+Amazon Keyspaces;Servico de Banco de Dados NoSQL
+Amazon DocumentDB;Servico de Banco de Dados NoSQL
+AWS Migration Hub;Servico de Migracao de Container e de Servidores
+AWS Application Migration Service (MGN);Servico de Migracao de Container e de Servidores
+AWS App2Container;Servico de Migracao de Container e de Servidores
+AWS Database Migration Service;Servico de Migracao de Banco de Dados
+AWS Snowball Edge;Servico de Migracao de Armazenamento
+AWS DataSync;Servico de Migracao de Armazenamento
+AWS Storage Gateway;Servico de Migracao de Armazenamento
 Amazon Q;Assistente de IA Generativa
-Amazon Bedrock;Serviços de Gerenciamento de IA Generativa
-Amazon Transcribe;Serviços de Transcrição de Fala para Texto
-Amazon Polly;Serviços de Texto para Fala
-Amazon Textract;Serviços de OCR
-Amazon Rekoginiton;Serviços de Reconhecimento de Imagem
-Amazon Lex;Serviços de ChatBot
-Amazon Translate;Serviços de Tradução de Texto
-Amazon Personalize;Serviços de Recomendação
-Amazon Augmented AI;Serviços de Integração de Análise Humana à IA
-Amazon Comprehend;Serviços de Monitoramento de Mídias e Redes Sociais
-Amazon Fraud Detector;Serviços de Detecção de Fraude
-Amazon Kendra;Serviços de Inteligência Artificial e Machine Learning
-Amazon Sagemaker;Serviços de Inteligência Artificial e Machine Learning
-Amazon QuickSight;Serviços de Exploração e Visualização de Dados
-Amazon Athena;Serviços de Exploração e Visualização de Dados
-AWS Data Exchange;Serviço de Descoberta de Dados
-AWS Lake Formation;Serviço de Descoberta de Dados
-Amazon DataZone;Serviço de Descoberta de Dados
-AWS Clean Rooms;Serviço de Descoberta de Dados
-AWS Glue;Serviço de ETL
-AWS EMR;Serviço de Processamento de Dados
-Amazon Redshift;Serviço de Armazenamento de Dados
-Amazon Kinesis Video Streams;Serviços de Mensagens Streaming
-Amazon Kinesis Data Streams;Serviços de Mensagens Streaming
-Amazon Data Firehose;Serviços de Mensagens Streaming
-Amazon Managed Service for Apache Flink;Serviços de Mensagens Streaming
-Amazon Simple Queue Service (SQS);Serviço de Mensagens
-Amazon Simple Notification Service (SNS);Serviço de Mensagens
-Amazon MQ;Serviço de Mensagens
-Amazon Event Bridge;Serviço de Mensagens
+Amazon Bedrock;Servicos de Gerenciamento de IA Generativa
+Amazon Transcribe;Servicos de Transcricao de Fala para Texto
+Amazon Polly;Servicos de Texto para Fala
+Amazon Textract;Servicos de OCR
+Amazon Rekoginiton;Servicos de Reconhecimento de Imagem
+Amazon Lex;Servicos de ChatBot
+Amazon Translate;Servicos de Traducao de Texto
+Amazon Personalize;Servicos de Recomendacao
+Amazon Augmented AI;Servicos de Integracao de Analise Humana à IA
+Amazon Comprehend;Servicos de Monitoramento de Mídias e Redes Sociais
+Amazon Fraud Detector;Servicos de Deteccao de Fraude
+Amazon Kendra;Servicos de Inteligência Artificial e Machine Learning
+Amazon Sagemaker;Servicos de Inteligência Artificial e Machine Learning
+Amazon QuickSight;Servicos de Exploracao e Visualizacao de Dados
+Amazon Athena;Servicos de Exploracao e Visualizacao de Dados
+AWS Data Exchange;Servico de Descoberta de Dados
+AWS Lake Formation;Servico de Descoberta de Dados
+Amazon DataZone;Servico de Descoberta de Dados
+AWS Clean Rooms;Servico de Descoberta de Dados
+AWS Glue;Servico de ETL
+AWS EMR;Servico de Processamento de Dados
+Amazon Redshift;Servico de Armazenamento de Dados
+Amazon Kinesis Video Streams;Servicos de Mensagens Streaming
+Amazon Kinesis Data Streams;Servicos de Mensagens Streaming
+Amazon Data Firehose;Servicos de Mensagens Streaming
+Amazon Managed Service for Apache Flink;Servicos de Mensagens Streaming
+Amazon Simple Queue Service (SQS);Servico de Mensagens
+Amazon Simple Notification Service (SNS);Servico de Mensagens
+Amazon MQ;Servico de Mensagens
+Amazon Event Bridge;Servico de Mensagens
 API Gateway;API Gateway
-AWS CodeCommit;Serviço de Gestão do Ciclo de Vida de Aplicações - Pipeline CI/CD
-AWS CodeBuild;Serviço de Gestão do Ciclo de Vida de Aplicações - Pipeline CI/CD
-AWS CodeDeploy;Serviço de Gestão do Ciclo de Vida de Aplicações - Pipeline CI/CD
-AWS CodePipeline;Serviço de Gestão do Ciclo de Vida de Aplicações - Pipeline CI/CD
-AWS CodeCatalyst;Serviço de Gestão do Ciclo de Vida de Aplicações - Pipeline CI/CD
-AWS KMS (Key Management Service);Armazenamento e Gerenciamento de Chaves Criptográficas
-AWS CloudHSM;Armazenamento e Gerenciamento de Chaves Criptográficas
+AWS CodeCommit;Servico de Gestao do Ciclo de Vida de Aplicacões - Pipeline CI/CD
+AWS CodeBuild;Servico de Gestao do Ciclo de Vida de Aplicacões - Pipeline CI/CD
+AWS CodeDeploy;Servico de Gestao do Ciclo de Vida de Aplicacões - Pipeline CI/CD
+AWS CodePipeline;Servico de Gestao do Ciclo de Vida de Aplicacões - Pipeline CI/CD
+AWS CodeCatalyst;Servico de Gestao do Ciclo de Vida de Aplicacões - Pipeline CI/CD
+AWS KMS (Key Management Service);Armazenamento e Gerenciamento de Chaves Criptograficas
+AWS CloudHSM;Armazenamento e Gerenciamento de Chaves Criptograficas
 AWS Secrets Manager;Armazenamento e Gerenciamento de Secrets
-AWS AppFlow;Serviços de Automação de Processos
-AWS Amplify;Serviços de Automação de Processos
-AWS Step Functions;Serviços de Automação de Processos
+AWS AppFlow;Servicos de Automacao de Processos
+AWS Amplify;Servicos de Automacao de Processos
+AWS Step Functions;Servicos de Automacao de Processos
 Ops Insights for Oracle Autonomous Databases-Basic;Management Cloud Service
 Ops Insights for Cloud Databases;Management Cloud Service
 Ops Insights for External Oracle Databases and Host;Management Cloud Service
@@ -229,7 +229,7 @@ Oracle Cloud Infrastructure-Monitoring-Retrieval;Network Cloud Service
 Oracle Cloud Infrastructure-Notifications-HTTPS Delivery;Network Cloud Service
 Oracle Cloud Infrastructure-Notifications-Email Delivery;Network Cloud Service
 Oracle Cloud Infrastructure-Logging-Storage;Network Cloud Service
-Oracle Cloud Infrastructure-Notifications-SMS Outbound to Country;Serviço de Notificação Zona 1
+Oracle Cloud Infrastructure-Notifications-SMS Outbound to Country;Servico de Notificacao Zona 1
 Oracle Cloud Infrastructure-Load Balancer Base;Network Cloud Service
 Oracle Cloud Infrastructure-Load Balancer Bandwidth;Network Cloud Service
 Oracle Cloud Infrastructure-FastConnect 100Gbps;Network Cloud Service

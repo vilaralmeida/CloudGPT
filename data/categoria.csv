@@ -1,95 +1,95 @@
 ﻿PRODUTO;CATEGORIA
-ECS Tipo S;Serviços de Computação
-ECS Tipo C;Serviços de Computação
-EVS;Serviços de Armazenamento
-OBS;Serviços de Armazenamento
-CCE;Serviços de Container
-SWR;Serviços de Container
-CGS;Serviço de Segurança de Nuvem
-Huawei MySQL ;Banco de Dados como Serviço
-Huawei PostgreSQL;Banco de Dados como Serviço
-Huawei WAF;Serviço de Segurança de Nuvem
-CBH;Serviço de Segurança de Nuvem
+ECS Tipo S;Servicos de Computacao
+ECS Tipo C;Servicos de Computacao
+EVS;Servicos de Armazenamento
+OBS;Servicos de Armazenamento
+CCE;Servicos de Container
+SWR;Servicos de Container
+CGS;Servico de Seguranca de Nuvem
+Huawei MySQL ;Banco de Dados como Servico
+Huawei PostgreSQL;Banco de Dados como Servico
+Huawei WAF;Servico de Seguranca de Nuvem
+CBH;Servico de Seguranca de Nuvem
 CodeArts Enterprise;Inteligência Artificial e Machine Learning
-IMS;Serviços de Computação
-Huawei Auto Scaling;Serviços de Computação
-SMN;Gerenciamento e Implantação
-TMS;Gerenciamento e Implantação
-VPC Endpoint;Serviços de Rede
-DNS;Serviços de Rede
-ELB;Serviços de Rede
-VPC NAT Gateway;Serviços de Rede
-VPN;Serviços de Rede
-IAM;Gerenciamento e Implantação
-Cloud Eye;Gerenciamento e Implantação
-Cloud Eye + AOM;Gerenciamento e Implantação
-EIP;Serviços de Rede
-EIP Traffic Monitoring;Serviços de Rede
-SMC;Serviço de Segurança de Nuvem
-Anti-DDoS;Serviço de Segurança de Nuvem
-CBR;Serviços de Backup e DR
-Huawei KMS;Gerenciamento e Implantação
+IMS;Servicos de Computacao
+Huawei Auto Scaling;Servicos de Computacao
+SMN;Gerenciamento e Implantacao
+TMS;Gerenciamento e Implantacao
+VPC Endpoint;Servicos de Rede
+DNS;Servicos de Rede
+ELB;Servicos de Rede
+VPC NAT Gateway;Servicos de Rede
+VPN;Servicos de Rede
+IAM;Gerenciamento e Implantacao
+Cloud Eye;Gerenciamento e Implantacao
+Cloud Eye + AOM;Gerenciamento e Implantacao
+EIP;Servicos de Rede
+EIP Traffic Monitoring;Servicos de Rede
+SMC;Servico de Seguranca de Nuvem
+Anti-DDoS;Servico de Seguranca de Nuvem
+CBR;Servicos de Backup e DR
+Huawei KMS;Gerenciamento e Implantacao
 Basic On-Site Services;Suporte Profissional Enterprise
 Cloud Service Engineer Training;Suporte Profissional Enterprise
-EC2;Serviços de Computação
-EC2 - GPU;Serviços de Computação
-Auto Scaling;Serviços de Computação
-Serverless;Serviços de Computação
-EKS;Serviços de Container
-AWS ECS;Serviços de Container
-ECR;Serviços de Container
-VPC ;Serviços de Rede
-AWS Transit Gateway;Serviços de Rede
-AWS PrivateLink;Serviços de Rede
-Amazon VPC Lattice;Serviços de Rede
-AWS AppMesh;Serviços de Rede
-AWS Cloud MAP;Serviços de Rede
-Route 53;Serviços de Rede
-AWS Web Application Firewall;Serviço de Segurança de Nuvem
-Security Groups ;Serviço de Segurança de Nuvem
-AWS Network Firewall;Serviço de Segurança de Nuvem
-Network Load Balancer;Serviços de Rede
-Application Load Balancer;Serviços de Rede
-Gateway Load Balancer;Serviços de Rede
-Nat Gateway;Serviços de Rede
-AWS VPN;Serviços de Rede
-Amazon ElastiCache for Redis/MemCache;Gerenciamento e Implantação
-AWS Identity and Access Management (IAM);Gerenciamento e Implantação
-AWS IAM Identiy Center;Gerenciamento e Implantação
-AWS Organizations;Gerenciamento e Implantação
-Amazon Cognito;Gerenciamento e Implantação
-Amazon Verified Permissions;Gerenciamento e Implantação
-AWS Resource Manager;Gerenciamento e Implantação
-AWS Directory Service;Gerenciamento e Implantação
-CloudTrail;Gerenciamento e Implantação
-CloudWatch;Gerenciamento e Implantação
-Amazon Managed Service for Prometheus;Gerenciamento e Implantação
-AWS X-Ray;Gerenciamento e Implantação
-AWS Artifact;Gerenciamento e Implantação
-Amazon GuardDuty;Gerenciamento e Implantação
-Amazon Inspector;Gerenciamento e Implantação
-AWS Security Hub;Gerenciamento e Implantação
-Amazon Security Lake;Gerenciamento e Implantação
-Amazon Detective;Gerenciamento e Implantação
-Amazon Config;Gerenciamento e Implantação
-Amazon  Shield;Gerenciamento e Implantação
-Amazon Macie;Gerenciamento e Implantação
-AWS EBS;Serviços de Armazenamento
-Amazon S3;Serviços de Armazenamento
-Amazon S3 Glacier;Serviços de Armazenamento
-Amazon S3 Glacier Deep Archive;Serviços de Armazenamento
-Amazon EFS;Serviços de Armazenamento
-Amazon FSX for Windows;Serviços de Armazenamento
-Amazon Fsx for Lustre;Serviços de Armazenamento
-Amazon Storage Gateway;Serviços de Armazenamento
-AWS Backup;Serviços de Backup e DR
-AWS PostgreSQL;Banco de Dados como Serviço
-AWS MySQL;Banco de Dados como Serviço
-Amazon Keyspaces;Banco de Dados como Serviço
-Amazon Nepture;Banco de Dados como Serviço
-Amazon DynamoDB;Banco de Dados como Serviço
-Amazon Keyspaces;Banco de Dados como Serviço
-Amazon DocumentDB;Banco de Dados como Serviço
+EC2;Servicos de Computacao
+EC2 - GPU;Servicos de Computacao
+Auto Scaling;Servicos de Computacao
+Serverless;Servicos de Computacao
+EKS;Servicos de Container
+AWS ECS;Servicos de Container
+ECR;Servicos de Container
+VPC ;Servicos de Rede
+AWS Transit Gateway;Servicos de Rede
+AWS PrivateLink;Servicos de Rede
+Amazon VPC Lattice;Servicos de Rede
+AWS AppMesh;Servicos de Rede
+AWS Cloud MAP;Servicos de Rede
+Route 53;Servicos de Rede
+AWS Web Application Firewall;Servico de Seguranca de Nuvem
+Security Groups ;Servico de Seguranca de Nuvem
+AWS Network Firewall;Servico de Seguranca de Nuvem
+Network Load Balancer;Servicos de Rede
+Application Load Balancer;Servicos de Rede
+Gateway Load Balancer;Servicos de Rede
+Nat Gateway;Servicos de Rede
+AWS VPN;Servicos de Rede
+Amazon ElastiCache for Redis/MemCache;Gerenciamento e Implantacao
+AWS Identity and Access Management (IAM);Gerenciamento e Implantacao
+AWS IAM Identiy Center;Gerenciamento e Implantacao
+AWS Organizations;Gerenciamento e Implantacao
+Amazon Cognito;Gerenciamento e Implantacao
+Amazon Verified Permissions;Gerenciamento e Implantacao
+AWS Resource Manager;Gerenciamento e Implantacao
+AWS Directory Service;Gerenciamento e Implantacao
+CloudTrail;Gerenciamento e Implantacao
+CloudWatch;Gerenciamento e Implantacao
+Amazon Managed Service for Prometheus;Gerenciamento e Implantacao
+AWS X-Ray;Gerenciamento e Implantacao
+AWS Artifact;Gerenciamento e Implantacao
+Amazon GuardDuty;Gerenciamento e Implantacao
+Amazon Inspector;Gerenciamento e Implantacao
+AWS Security Hub;Gerenciamento e Implantacao
+Amazon Security Lake;Gerenciamento e Implantacao
+Amazon Detective;Gerenciamento e Implantacao
+Amazon Config;Gerenciamento e Implantacao
+Amazon  Shield;Gerenciamento e Implantacao
+Amazon Macie;Gerenciamento e Implantacao
+AWS EBS;Servicos de Armazenamento
+Amazon S3;Servicos de Armazenamento
+Amazon S3 Glacier;Servicos de Armazenamento
+Amazon S3 Glacier Deep Archive;Servicos de Armazenamento
+Amazon EFS;Servicos de Armazenamento
+Amazon FSX for Windows;Servicos de Armazenamento
+Amazon Fsx for Lustre;Servicos de Armazenamento
+Amazon Storage Gateway;Servicos de Armazenamento
+AWS Backup;Servicos de Backup e DR
+AWS PostgreSQL;Banco de Dados como Servico
+AWS MySQL;Banco de Dados como Servico
+Amazon Keyspaces;Banco de Dados como Servico
+Amazon Nepture;Banco de Dados como Servico
+Amazon DynamoDB;Banco de Dados como Servico
+Amazon Keyspaces;Banco de Dados como Servico
+Amazon DocumentDB;Banco de Dados como Servico
 AWS Migration Hub;Suporte Profissional Enterprise
 AWS Application Migration Service (MGN);Suporte Profissional Enterprise
 AWS App2Container;Suporte Profissional Enterprise
@@ -129,30 +129,30 @@ Amazon Simple Notification Service (SNS);API e Mensageria
 Amazon MQ;API e Mensageria
 Amazon Event Bridge;API e Mensageria
 API Gateway;API e Mensageria
-AWS CodeCommit;Gerenciamento e Implantação
-AWS CodeBuild;Gerenciamento e Implantação
-AWS CodeDeploy;Gerenciamento e Implantação
-AWS CodePipeline;Gerenciamento e Implantação
-AWS CodeCatalyst;Gerenciamento e Implantação
-AWS KMS (Key Management Service);Gerenciamento e Implantação
-AWS CloudHSM;Gerenciamento e Implantação
-AWS Secrets Manager;Gerenciamento e Implantação
+AWS CodeCommit;Gerenciamento e Implantacao
+AWS CodeBuild;Gerenciamento e Implantacao
+AWS CodeDeploy;Gerenciamento e Implantacao
+AWS CodePipeline;Gerenciamento e Implantacao
+AWS CodeCatalyst;Gerenciamento e Implantacao
+AWS KMS (Key Management Service);Gerenciamento e Implantacao
+AWS CloudHSM;Gerenciamento e Implantacao
+AWS Secrets Manager;Gerenciamento e Implantacao
 AWS AppFlow;Desenvolvimento
 AWS Amplify;Desenvolvimento
 AWS Step Functions;Desenvolvimento
-Ops Insights for Oracle Autonomous Databases-Basic;Gerenciamento e Implantação
-Ops Insights for Cloud Databases;Gerenciamento e Implantação
-Ops Insights for External Oracle Databases and Host;Gerenciamento e Implantação
-Application Performance Monitoring Service-Tracing Data;Gerenciamento e Implantação
-Application Performance Monitoring Service-Synthetic Usage;Gerenciamento e Implantação
-Database Management-External DB BYOL;Gerenciamento e Implantação
-Database Management-External DB;Gerenciamento e Implantação
-Database Management-Cloud Databases;Gerenciamento e Implantação
-Ops Insights for Warehouse-Extract;Gerenciamento e Implantação
-Ops Insights for Warehouse-Instance;Gerenciamento e Implantação
-Logging Analytics- Active Storage;Gerenciamento e Implantação
-Database Management-Autonomous Databases-ECPU;Gerenciamento e Implantação
-Ops Insights for Oracle Autonomous Databases-Full;Gerenciamento e Implantação
+Ops Insights for Oracle Autonomous Databases-Basic;Gerenciamento e Implantacao
+Ops Insights for Cloud Databases;Gerenciamento e Implantacao
+Ops Insights for External Oracle Databases and Host;Gerenciamento e Implantacao
+Application Performance Monitoring Service-Tracing Data;Gerenciamento e Implantacao
+Application Performance Monitoring Service-Synthetic Usage;Gerenciamento e Implantacao
+Database Management-External DB BYOL;Gerenciamento e Implantacao
+Database Management-External DB;Gerenciamento e Implantacao
+Database Management-Cloud Databases;Gerenciamento e Implantacao
+Ops Insights for Warehouse-Extract;Gerenciamento e Implantacao
+Ops Insights for Warehouse-Instance;Gerenciamento e Implantacao
+Logging Analytics- Active Storage;Gerenciamento e Implantacao
+Database Management-Autonomous Databases-ECPU;Gerenciamento e Implantacao
+Ops Insights for Oracle Autonomous Databases-Full;Gerenciamento e Implantacao
 Oracle Java Cloud Service-Enterprise;Desenvolvimento
 Oracle Java Cloud Service-Standard;Desenvolvimento
 Java Cloud Service-High Performance;Desenvolvimento
@@ -177,31 +177,31 @@ Essbase for Oracle Cloud Infrastructure;Analytics
 Oracle Analytics-Professional;Analytics
 Oracle Analytics-Enterprise;Analytics
 Oracle Analytics Server for Oracle Cloud Infrastructure;Analytics
-Oracle Cloud Infrastructure-File Storage;Serviços de Armazenamento
-Oracle Cloud Infrastructure-Streaming-PUT or GET;Serviços de Armazenamento
-Oracle Cloud Infrastructure-Streaming-Storage;Serviços de Armazenamento
-Oracle Cloud Infrastructure-Object Storage- Requests;Serviços de Armazenamento
-Oracle Cloud Infrastructure-Object Storage- Storage;Serviços de Armazenamento
-Oracle Cloud Infrastructure-Block Volume Storage;Serviços de Armazenamento
-Oracle Cloud Infrastructure-Block Volume Performance;Serviços de Armazenamento
-Oracle Cloud Infrastructure-Data Retrieval - Storage;Serviços de Armazenamento
-Oracle ZFS Storage-High Availability;Serviços de Armazenamento
-Oracle Cloud Infrastructure-Key Management- Private Vault;Serviço de Segurança de Nuvem
-Oracle Identity Cloud Service-Enterprise User;Serviço de Segurança de Nuvem
-Oracle Identity Cloud Service-Consumer User;Serviço de Segurança de Nuvem
-Oracle Identity Cloud Service-Consumer User- BYOL;Serviço de Segurança de Nuvem
-Oracle Identity Foundation Cloud Service;Serviço de Segurança de Nuvem
-Oracle Cloud Infrastructure-KMS Vault-Key Versions;Serviço de Segurança de Nuvem
-Oracle Cloud Infrastructure Identity and Access Management-External User;Serviço de Segurança de Nuvem
-Oracle Cloud Infrastructure Identity and Access Management-Oracle Apps Premium;Serviço de Segurança de Nuvem
-Oracle Cloud Infrastructure Identity and Access Management-Premium;Serviço de Segurança de Nuvem
-Oracle Cloud Infrastructure Identity and Access Management-SMS;Serviço de Segurança de Nuvem
-Oracle Cloud Infrastructure Identity and Access Management-Token;Serviço de Segurança de Nuvem
-Oracle Cloud Infrastructure Identity and Access Management-Replication;Serviço de Segurança de Nuvem
-Oracle Threat Intelligence Service;Serviço de Segurança de Nuvem
-Oracle Cloud Infrastructure-Web Application Firewall-Requests;Serviço de Segurança de Nuvem
-Oracle Cloud Infrastructure-Web Application Firewall-Instance;Serviço de Segurança de Nuvem
-Oracle Cloud Infrastructure-External Key Management;Serviço de Segurança de Nuvem
+Oracle Cloud Infrastructure-File Storage;Servicos de Armazenamento
+Oracle Cloud Infrastructure-Streaming-PUT or GET;Servicos de Armazenamento
+Oracle Cloud Infrastructure-Streaming-Storage;Servicos de Armazenamento
+Oracle Cloud Infrastructure-Object Storage- Requests;Servicos de Armazenamento
+Oracle Cloud Infrastructure-Object Storage- Storage;Servicos de Armazenamento
+Oracle Cloud Infrastructure-Block Volume Storage;Servicos de Armazenamento
+Oracle Cloud Infrastructure-Block Volume Performance;Servicos de Armazenamento
+Oracle Cloud Infrastructure-Data Retrieval - Storage;Servicos de Armazenamento
+Oracle ZFS Storage-High Availability;Servicos de Armazenamento
+Oracle Cloud Infrastructure-Key Management- Private Vault;Servico de Seguranca de Nuvem
+Oracle Identity Cloud Service-Enterprise User;Servico de Seguranca de Nuvem
+Oracle Identity Cloud Service-Consumer User;Servico de Seguranca de Nuvem
+Oracle Identity Cloud Service-Consumer User- BYOL;Servico de Seguranca de Nuvem
+Oracle Identity Foundation Cloud Service;Servico de Seguranca de Nuvem
+Oracle Cloud Infrastructure-KMS Vault-Key Versions;Servico de Seguranca de Nuvem
+Oracle Cloud Infrastructure Identity and Access Management-External User;Servico de Seguranca de Nuvem
+Oracle Cloud Infrastructure Identity and Access Management-Oracle Apps Premium;Servico de Seguranca de Nuvem
+Oracle Cloud Infrastructure Identity and Access Management-Premium;Servico de Seguranca de Nuvem
+Oracle Cloud Infrastructure Identity and Access Management-SMS;Servico de Seguranca de Nuvem
+Oracle Cloud Infrastructure Identity and Access Management-Token;Servico de Seguranca de Nuvem
+Oracle Cloud Infrastructure Identity and Access Management-Replication;Servico de Seguranca de Nuvem
+Oracle Threat Intelligence Service;Servico de Seguranca de Nuvem
+Oracle Cloud Infrastructure-Web Application Firewall-Requests;Servico de Seguranca de Nuvem
+Oracle Cloud Infrastructure-Web Application Firewall-Instance;Servico de Seguranca de Nuvem
+Oracle Cloud Infrastructure-External Key Management;Servico de Seguranca de Nuvem
 Oracle Integration Cloud Service-Standard;Enterprise Integration Cloud Service
 Oracle Integration Cloud Service-Enterprise;Enterprise Integration Cloud Service
 Oracle Integration Cloud Service-Standard-BYOL;Enterprise Integration Cloud Service
@@ -218,91 +218,91 @@ Oracle Stream Analytics for Oracle Cloud Infrastructure;Analytics
 Oracle Cloud Infrastructure-GoldenGate;Analytics
 Oracle Cloud Infrastructure-GoldenGate-BYOL;Analytics
 Oracle Cloud Infrastructure-Data Integration- Pipeline Operator Execution;Analytics
-Oracle Cloud Infrastructure-FastConnect 1 Gbps;Serviços de Rede
-Oracle Cloud Infrastructure-FastConnect 10 Gbps;Serviços de Rede
-Oracle Cloud Infrastructure-Outbound Data Transfer-Originating in North America, Europe, and UK;Serviços de Rede
-Oracle Cloud Infrastructure-Email Delivery;Serviços de Rede
-Oracle Cloud Infrastructure-Health Checks-Basic;Serviços de Rede
-Oracle Cloud Infrastructure-Health Checks- Premium;Serviços de Rede
-Oracle Cloud Infrastructure-Monitoring-Ingestion;Serviços de Rede
-Oracle Cloud Infrastructure-Monitoring-Retrieval;Serviços de Rede
-Oracle Cloud Infrastructure-Notifications-HTTPS Delivery;Serviços de Rede
-Oracle Cloud Infrastructure-Notifications-Email Delivery;Serviços de Rede
-Oracle Cloud Infrastructure-Logging-Storage;Serviços de Rede
-Oracle Cloud Infrastructure-Notifications-SMS Outbound to Country;Serviços de Rede por Zona
-Oracle Cloud Infrastructure-Load Balancer Base;Serviços de Rede
-Oracle Cloud Infrastructure-Load Balancer Bandwidth;Serviços de Rede
-Oracle Cloud Infrastructure-FastConnect 100Gbps;Serviços de Rede
-Oracle Cloud Infrastructure-Outbound Data Transfer-Originating in APAC, Japan, and South America;Serviços de Rede
-Oracle Cloud Infrastructure-Outbound Data Transfer-Originating in Middle East and Africa;Serviços de Rede
-Oracle Functions-Execution Time-10,000 Gigabyte Memory;Serviços de Computação
-Oracle Functions-Invocations;Serviços de Computação
-Oracle Cloud Infrastructure-Compute-Microsoft SQL Enterprise;Serviços de Computação
-Oracle Cloud Infrastructure-Compute-Microsoft SQL Standard;Serviços de Computação
-Oracle Cloud Infrastructure-API Gateway- 1,000,000 API Calls;Serviços de Computação
-Oracle Cloud Infrastructure-Compute-Standard-X9;Serviços de Computação
-Oracle Cloud Infrastructure-Compute-Standard- X9-Memory;Serviços de Computação
-Oracle Container Engine for Kubernetes- Enhanced Cluster;Serviços de Computação
-Oracle Cloud Infrastructure-Compute-Standard- E5-OCPU;Serviços de Computação
-Oracle Cloud Infrastructure-Compute-Standard- E5-Memory;Serviços de Computação
-MySQL Database-ECPU;Banco de Dados como Serviço
-Oracle Database Cloud Service-Enterprise Edition-General Purpose;Banco de Dados como Serviço
-Oracle Database Cloud Service-Enterprise Edition Extreme Performance-General Purpose;Banco de Dados como Serviço
-Oracle Database Cloud Service-Enterprise Edition High Performance-General Purpose;Banco de Dados como Serviço
-Oracle Database Cloud Service-Standard Edition- General Purpose;Banco de Dados como Serviço
-Oracle Database Backup Service-Outbound Data Transfer;Banco de Dados como Serviço
-Oracle Database Backup Service-GET and all other Requests;Banco de Dados como Serviço
-Oracle Database Backup Service-PUT, COPY, POST or LIST Requests;Banco de Dados como Serviço
-Oracle Database Backup Service-Storage Capacity;Banco de Dados como Serviço
-Oracle Database Cloud Service-All Editions-BYOL;Banco de Dados como Serviço
-Exadata Database OCPU-Dedicated Infrastructure;Banco de Dados como Serviço
-Exadata Database OCPU-Dedicated Infrastructure-BYOL;Banco de Dados como Serviço
-Oracle NoSQL Database Cloud Service-Write;Banco de Dados como Serviço
-Oracle NoSQL Database Cloud Service-Read;Banco de Dados como Serviço
-Oracle NoSQL Database Cloud Service-Storage;Banco de Dados como Serviço
-Oracle Database Backup Cloud-Object Storage;Banco de Dados como Serviço
-Oracle Autonomous Transaction Processing- Exadata Storage;Banco de Dados como Serviço
-Oracle Base Database Service-Standard;Banco de Dados como Serviço
-Oracle Base Database Service-Enterprise;Banco de Dados como Serviço
-Oracle Base Database Service-High Performance;Banco de Dados como Serviço
-Oracle Base Database Service-Extreme Performance;Banco de Dados como Serviço
-Oracle Base Database Service-BYOL;Banco de Dados como Serviço
-Oracle Cloud SQL-Compute Capacity;Banco de Dados como Serviço
-Oracle Big Data Service-Compute-Standard;Banco de Dados como Serviço
-Oracle Cloud Infrastructure-Data Safe for Database Cloud Service-Audit Record Collection Over 1 Million Records;Banco de Dados como Serviço
-Oracle Cloud Infrastructure-Data Safe for Database Cloud Service;Banco de Dados como Serviço
-MySQL HeatWave-Standard;Banco de Dados como Serviço
-MySQL Database for HeatWave-Standard;Banco de Dados como Serviço
-Oracle Autonomous Transaction Processing- Dedicated;Banco de Dados como Serviço
-Oracle Autonomous Data Warehouse-Dedicated;Banco de Dados como Serviço
-Oracle Autonomous Transaction Processing- Dedicated-BYOL;Banco de Dados como Serviço
-Oracle Autonomous Data Warehouse-Dedicated- BYOL;Banco de Dados como Serviço
-Oracle Autonomous JSON Database;Banco de Dados como Serviço
-MySQL Database-Storage;Banco de Dados como Serviço
-MySQL Database-Backup Storage;Banco de Dados como Serviço
-Oracle Cloud Infrastructure-Data Safe for On- Premises Databases & Databases on Compute;Banco de Dados como Serviço
-Oracle APEX Application Development;Banco de Dados como Serviço
-Oracle Cloud Infrastructure Database Migration;Banco de Dados como Serviço
-Exadata Cloud Infrastructure-Quarter Rack-X9M;Banco de Dados como Serviço
-Exadata Cloud Infrastructure-Database Server- X9M;Banco de Dados como Serviço
-Exadata Cloud Infrastructure-Storage Server-X9M;Banco de Dados como Serviço
-MySQL Database for HeatWave-Bare Metal Standard;Banco de Dados como Serviço
-Oracle Cloud Infrastructure Search with OpenSearch HA;Banco de Dados como Serviço
-Oracle NoSQL Database Cloud-Write-Auto;Banco de Dados como Serviço
-Oracle NoSQL Database Cloud-Read-Auto;Banco de Dados como Serviço
-Oracle NoSQL Database Cloud-Hosted Environment;Banco de Dados como Serviço
-Oracle Cloud Infrastructure Application Performance Monitoring Service-Stack Monitoring;Banco de Dados como Serviço
-MySQL Database-Standard-Intel X9-Compute;Banco de Dados como Serviço
-MySQL Database-Standard-Intel X9-Memory;Banco de Dados como Serviço
-Oracle Autonomous Data Warehouse-ECPU;Banco de Dados como Serviço
-Oracle Autonomous Transaction Processing- ECPU;Banco de Dados como Serviço
-Oracle Autonomous Data Warehouse-ECPU- BYOL;Banco de Dados como Serviço
-Oracle Autonomous Transaction Processing- ECPU-BYOL;Banco de Dados como Serviço
-Oracle Autonomous Database Storage for Transaction Processing;Banco de Dados como Serviço
-Oracle Autonomous Data Warehouse-Dedicated- ECPU;Banco de Dados como Serviço
-Oracle Autonomous Transaction Processing- Dedicated-ECPU;Banco de Dados como Serviço
-Oracle Autonomous Data Warehouse-Dedicated- ECPU-BYOL;Banco de Dados como Serviço
-Oracle Autonomous Transaction Processing- Dedicated-ECPU-BYOL;Banco de Dados como Serviço
-Oracle Autonomous Database Storage;Banco de Dados como Serviço
-Oracle Cloud Infrastructure-HeatWave-Storage;Banco de Dados como Serviço
-Oracle Cloud Infrastructure-HeatWave;Banco de Dados como Serviço
+Oracle Cloud Infrastructure-FastConnect 1 Gbps;Servicos de Rede
+Oracle Cloud Infrastructure-FastConnect 10 Gbps;Servicos de Rede
+Oracle Cloud Infrastructure-Outbound Data Transfer-Originating in North America, Europe, and UK;Servicos de Rede
+Oracle Cloud Infrastructure-Email Delivery;Servicos de Rede
+Oracle Cloud Infrastructure-Health Checks-Basic;Servicos de Rede
+Oracle Cloud Infrastructure-Health Checks- Premium;Servicos de Rede
+Oracle Cloud Infrastructure-Monitoring-Ingestion;Servicos de Rede
+Oracle Cloud Infrastructure-Monitoring-Retrieval;Servicos de Rede
+Oracle Cloud Infrastructure-Notifications-HTTPS Delivery;Servicos de Rede
+Oracle Cloud Infrastructure-Notifications-Email Delivery;Servicos de Rede
+Oracle Cloud Infrastructure-Logging-Storage;Servicos de Rede
+Oracle Cloud Infrastructure-Notifications-SMS Outbound to Country;Servicos de Rede por Zona
+Oracle Cloud Infrastructure-Load Balancer Base;Servicos de Rede
+Oracle Cloud Infrastructure-Load Balancer Bandwidth;Servicos de Rede
+Oracle Cloud Infrastructure-FastConnect 100Gbps;Servicos de Rede
+Oracle Cloud Infrastructure-Outbound Data Transfer-Originating in APAC, Japan, and South America;Servicos de Rede
+Oracle Cloud Infrastructure-Outbound Data Transfer-Originating in Middle East and Africa;Servicos de Rede
+Oracle Functions-Execution Time-10,000 Gigabyte Memory;Servicos de Computacao
+Oracle Functions-Invocations;Servicos de Computacao
+Oracle Cloud Infrastructure-Compute-Microsoft SQL Enterprise;Servicos de Computacao
+Oracle Cloud Infrastructure-Compute-Microsoft SQL Standard;Servicos de Computacao
+Oracle Cloud Infrastructure-API Gateway- 1,000,000 API Calls;Servicos de Computacao
+Oracle Cloud Infrastructure-Compute-Standard-X9;Servicos de Computacao
+Oracle Cloud Infrastructure-Compute-Standard- X9-Memory;Servicos de Computacao
+Oracle Container Engine for Kubernetes- Enhanced Cluster;Servicos de Computacao
+Oracle Cloud Infrastructure-Compute-Standard- E5-OCPU;Servicos de Computacao
+Oracle Cloud Infrastructure-Compute-Standard- E5-Memory;Servicos de Computacao
+MySQL Database-ECPU;Banco de Dados como Servico
+Oracle Database Cloud Service-Enterprise Edition-General Purpose;Banco de Dados como Servico
+Oracle Database Cloud Service-Enterprise Edition Extreme Performance-General Purpose;Banco de Dados como Servico
+Oracle Database Cloud Service-Enterprise Edition High Performance-General Purpose;Banco de Dados como Servico
+Oracle Database Cloud Service-Standard Edition- General Purpose;Banco de Dados como Servico
+Oracle Database Backup Service-Outbound Data Transfer;Banco de Dados como Servico
+Oracle Database Backup Service-GET and all other Requests;Banco de Dados como Servico
+Oracle Database Backup Service-PUT, COPY, POST or LIST Requests;Banco de Dados como Servico
+Oracle Database Backup Service-Storage Capacity;Banco de Dados como Servico
+Oracle Database Cloud Service-All Editions-BYOL;Banco de Dados como Servico
+Exadata Database OCPU-Dedicated Infrastructure;Banco de Dados como Servico
+Exadata Database OCPU-Dedicated Infrastructure-BYOL;Banco de Dados como Servico
+Oracle NoSQL Database Cloud Service-Write;Banco de Dados como Servico
+Oracle NoSQL Database Cloud Service-Read;Banco de Dados como Servico
+Oracle NoSQL Database Cloud Service-Storage;Banco de Dados como Servico
+Oracle Database Backup Cloud-Object Storage;Banco de Dados como Servico
+Oracle Autonomous Transaction Processing- Exadata Storage;Banco de Dados como Servico
+Oracle Base Database Service-Standard;Banco de Dados como Servico
+Oracle Base Database Service-Enterprise;Banco de Dados como Servico
+Oracle Base Database Service-High Performance;Banco de Dados como Servico
+Oracle Base Database Service-Extreme Performance;Banco de Dados como Servico
+Oracle Base Database Service-BYOL;Banco de Dados como Servico
+Oracle Cloud SQL-Compute Capacity;Banco de Dados como Servico
+Oracle Big Data Service-Compute-Standard;Banco de Dados como Servico
+Oracle Cloud Infrastructure-Data Safe for Database Cloud Service-Audit Record Collection Over 1 Million Records;Banco de Dados como Servico
+Oracle Cloud Infrastructure-Data Safe for Database Cloud Service;Banco de Dados como Servico
+MySQL HeatWave-Standard;Banco de Dados como Servico
+MySQL Database for HeatWave-Standard;Banco de Dados como Servico
+Oracle Autonomous Transaction Processing- Dedicated;Banco de Dados como Servico
+Oracle Autonomous Data Warehouse-Dedicated;Banco de Dados como Servico
+Oracle Autonomous Transaction Processing- Dedicated-BYOL;Banco de Dados como Servico
+Oracle Autonomous Data Warehouse-Dedicated- BYOL;Banco de Dados como Servico
+Oracle Autonomous JSON Database;Banco de Dados como Servico
+MySQL Database-Storage;Banco de Dados como Servico
+MySQL Database-Backup Storage;Banco de Dados como Servico
+Oracle Cloud Infrastructure-Data Safe for On- Premises Databases & Databases on Compute;Banco de Dados como Servico
+Oracle APEX Application Development;Banco de Dados como Servico
+Oracle Cloud Infrastructure Database Migration;Banco de Dados como Servico
+Exadata Cloud Infrastructure-Quarter Rack-X9M;Banco de Dados como Servico
+Exadata Cloud Infrastructure-Database Server- X9M;Banco de Dados como Servico
+Exadata Cloud Infrastructure-Storage Server-X9M;Banco de Dados como Servico
+MySQL Database for HeatWave-Bare Metal Standard;Banco de Dados como Servico
+Oracle Cloud Infrastructure Search with OpenSearch HA;Banco de Dados como Servico
+Oracle NoSQL Database Cloud-Write-Auto;Banco de Dados como Servico
+Oracle NoSQL Database Cloud-Read-Auto;Banco de Dados como Servico
+Oracle NoSQL Database Cloud-Hosted Environment;Banco de Dados como Servico
+Oracle Cloud Infrastructure Application Performance Monitoring Service-Stack Monitoring;Banco de Dados como Servico
+MySQL Database-Standard-Intel X9-Compute;Banco de Dados como Servico
+MySQL Database-Standard-Intel X9-Memory;Banco de Dados como Servico
+Oracle Autonomous Data Warehouse-ECPU;Banco de Dados como Servico
+Oracle Autonomous Transaction Processing- ECPU;Banco de Dados como Servico
+Oracle Autonomous Data Warehouse-ECPU- BYOL;Banco de Dados como Servico
+Oracle Autonomous Transaction Processing- ECPU-BYOL;Banco de Dados como Servico
+Oracle Autonomous Database Storage for Transaction Processing;Banco de Dados como Servico
+Oracle Autonomous Data Warehouse-Dedicated- ECPU;Banco de Dados como Servico
+Oracle Autonomous Transaction Processing- Dedicated-ECPU;Banco de Dados como Servico
+Oracle Autonomous Data Warehouse-Dedicated- ECPU-BYOL;Banco de Dados como Servico
+Oracle Autonomous Transaction Processing- Dedicated-ECPU-BYOL;Banco de Dados como Servico
+Oracle Autonomous Database Storage;Banco de Dados como Servico
+Oracle Cloud Infrastructure-HeatWave-Storage;Banco de Dados como Servico
+Oracle Cloud Infrastructure-HeatWave;Banco de Dados como Servico

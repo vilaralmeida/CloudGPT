@@ -79,7 +79,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gpYT61SXqMQ34JX1ciiI-27" value="Há 5 oportunidades aguardando pelo CCE e sua capacidade atual é de 600 instancias do tipo P, 200 do tipo M ou 600 do tipo G" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="gpYT61SXqMQ34JX1ciiI-27" value="Ha 5 oportunidades aguardando pelo CCE e sua capacidade atual é de 600 instancias do tipo P, 200 do tipo M ou 600 do tipo G" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="130" y="420" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gpYT61SXqMQ34JX1ciiI-29" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">

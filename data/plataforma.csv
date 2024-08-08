@@ -10,7 +10,7 @@ HCSO;Huawei MySQL
 HCSO;Huawei PostgreSQL
 HCSO;Huawei WAF
 HCSO;CBH
-Nuvem Pública;CodeArts Enterprise
+Nuvem Publica;CodeArts Enterprise
 HCSO;IMS
 HCSO;Huawei Auto Scaling
 HCSO;SMN
@@ -29,117 +29,117 @@ HCSO;SMC
 HCSO;Anti-DDoS
 HCSO;CBR
 HCSO;Huawei KMS
-Serviços;Basic On-Site Services
-Serviços;Cloud Service Engineer Training
+Servicos;Basic On-Site Services
+Servicos;Cloud Service Engineer Training
 OUTPOSTS;EC2
 OUTPOSTS;EC2 - GPU
 OUTPOSTS;Auto Scaling
-Nuvem Pública;Serverless
+Nuvem Publica;Serverless
 OUTPOSTS;EKS
 OUTPOSTS;AWS ECS
 OUTPOSTS;ECR
 OUTPOSTS;VPC 
-Nuvem Pública;AWS Transit Gateway
-Nuvem Pública;AWS PrivateLink
-Nuvem Pública;Amazon VPC Lattice
-Nuvem Pública;AWS AppMesh
-Nuvem Pública;AWS Cloud MAP
-Nuvem Pública;Route 53
-Nuvem Pública;AWS Web Application Firewall
-Nuvem Pública;Security Groups 
-Nuvem Pública;AWS Network Firewall
-Nuvem Pública;Network Load Balancer
-Nuvem Pública;Application Load Balancer
-Nuvem Pública;Gateway Load Balancer
-Nuvem Pública;Nat Gateway
-Nuvem Pública;AWS VPN
-Nuvem Pública;Amazon ElastiCache for Redis/MemCache
-Nuvem Pública;AWS Identity and Access Management (IAM)
-Nuvem Pública;AWS IAM Identiy Center
-Nuvem Pública;AWS Organizations
-Nuvem Pública;Amazon Cognito
-Nuvem Pública;Amazon Verified Permissions
-Nuvem Pública;AWS Resource Manager
-Nuvem Pública;AWS Directory Service
-Nuvem Pública;CloudTrail
-Nuvem Pública;CloudWatch
-Nuvem Pública;Amazon Managed Service for Prometheus
-Nuvem Pública;AWS X-Ray
-Nuvem Pública;AWS Artifact
-Nuvem Pública;Amazon GuardDuty
-Nuvem Pública;Amazon Inspector
-Nuvem Pública;AWS Security Hub
-Nuvem Pública;Amazon Security Lake
-Nuvem Pública;Amazon Detective
-Nuvem Pública;Amazon Config
-Nuvem Pública;Amazon  Shield
-Nuvem Pública;Amazon Macie
+Nuvem Publica;AWS Transit Gateway
+Nuvem Publica;AWS PrivateLink
+Nuvem Publica;Amazon VPC Lattice
+Nuvem Publica;AWS AppMesh
+Nuvem Publica;AWS Cloud MAP
+Nuvem Publica;Route 53
+Nuvem Publica;AWS Web Application Firewall
+Nuvem Publica;Security Groups 
+Nuvem Publica;AWS Network Firewall
+Nuvem Publica;Network Load Balancer
+Nuvem Publica;Application Load Balancer
+Nuvem Publica;Gateway Load Balancer
+Nuvem Publica;Nat Gateway
+Nuvem Publica;AWS VPN
+Nuvem Publica;Amazon ElastiCache for Redis/MemCache
+Nuvem Publica;AWS Identity and Access Management (IAM)
+Nuvem Publica;AWS IAM Identiy Center
+Nuvem Publica;AWS Organizations
+Nuvem Publica;Amazon Cognito
+Nuvem Publica;Amazon Verified Permissions
+Nuvem Publica;AWS Resource Manager
+Nuvem Publica;AWS Directory Service
+Nuvem Publica;CloudTrail
+Nuvem Publica;CloudWatch
+Nuvem Publica;Amazon Managed Service for Prometheus
+Nuvem Publica;AWS X-Ray
+Nuvem Publica;AWS Artifact
+Nuvem Publica;Amazon GuardDuty
+Nuvem Publica;Amazon Inspector
+Nuvem Publica;AWS Security Hub
+Nuvem Publica;Amazon Security Lake
+Nuvem Publica;Amazon Detective
+Nuvem Publica;Amazon Config
+Nuvem Publica;Amazon Shield
+Nuvem Publica;Amazon Macie
 OUTPOSTS;AWS EBS
 OUTPOSTS;Amazon S3
-Nuvem Pública;Amazon S3 Glacier
-Nuvem Pública;Amazon S3 Glacier Deep Archive
-Nuvem Pública;Amazon EFS
-Nuvem Pública;Amazon FSX for Windows
-Nuvem Pública;Amazon Fsx for Lustre
-Nuvem Pública;Amazon Storage Gateway
-Nuvem Pública;AWS Backup
+Nuvem Publica;Amazon S3 Glacier
+Nuvem Publica;Amazon S3 Glacier Deep Archive
+Nuvem Publica;Amazon EFS
+Nuvem Publica;Amazon FSX for Windows
+Nuvem Publica;Amazon Fsx for Lustre
+Nuvem Publica;Amazon Storage Gateway
+Nuvem Publica;AWS Backup
 OUTPOSTS;AWS PostgreSQL
 OUTPOSTS;AWS MySQL
-Nuvem Pública;Amazon Keyspaces
-Nuvem Pública;Amazon Nepture
-Nuvem Pública;Amazon DynamoDB
-Nuvem Pública;Amazon Keyspaces
-Nuvem Pública;Amazon DocumentDB
-Serviços;AWS Migration Hub
-Serviços;AWS Application Migration Service (MGN)
-Serviços;AWS App2Container
-Serviços;AWS Database Migration Service
-Serviços;AWS Snowball Edge
-Serviços;AWS DataSync
-Serviços;AWS Storage Gateway
-Nuvem Pública;Amazon Q
-Nuvem Pública;Amazon Bedrock
-Nuvem Pública;Amazon Transcribe
-Nuvem Pública;Amazon Polly
-Nuvem Pública;Amazon Textract
-Nuvem Pública;Amazon Rekoginiton
-Nuvem Pública;Amazon Lex
-Nuvem Pública;Amazon Translate
-Nuvem Pública;Amazon Personalize
-Nuvem Pública;Amazon Augmented AI
-Nuvem Pública;Amazon Comprehend
-Nuvem Pública;Amazon Fraud Detector
-Nuvem Pública;Amazon Kendra
-Nuvem Pública;Amazon Sagemaker
-Nuvem Pública;Amazon QuickSight
-Nuvem Pública;Amazon Athena
-Nuvem Pública;AWS Data Exchange
-Nuvem Pública;AWS Lake Formation
-Nuvem Pública;Amazon DataZone
-Nuvem Pública;AWS Clean Rooms
-Nuvem Pública;AWS Glue
-Nuvem Pública;AWS EMR
-Nuvem Pública;Amazon Redshift
-Nuvem Pública;Amazon Kinesis Video Streams
-Nuvem Pública;Amazon Kinesis Data Streams
-Nuvem Pública;Amazon Data Firehose
-Nuvem Pública;Amazon Managed Service for Apache Flink
-Nuvem Pública;Amazon Simple Queue Service (SQS)
-Nuvem Pública;Amazon Simple Notification Service (SNS)
-Nuvem Pública;Amazon MQ
-Nuvem Pública;Amazon Event Bridge
-Nuvem Pública;API Gateway
-Nuvem Pública;AWS CodeCommit
-Nuvem Pública;AWS CodeBuild
-Nuvem Pública;AWS CodeDeploy
-Nuvem Pública;AWS CodePipeline
-Nuvem Pública;AWS CodeCatalyst
-Nuvem Pública;AWS KMS (Key Management Service)
-Nuvem Pública;AWS CloudHSM
-Nuvem Pública;AWS Secrets Manager
-Nuvem Pública;AWS AppFlow
-Nuvem Pública;AWS Amplify
-Nuvem Pública;AWS Step Functions
+Nuvem Publica;Amazon Keyspaces
+Nuvem Publica;Amazon Nepture
+Nuvem Publica;Amazon DynamoDB
+Nuvem Publica;Amazon Keyspaces
+Nuvem Publica;Amazon DocumentDB
+Servicos;AWS Migration Hub
+Servicos;AWS Application Migration Service (MGN)
+Servicos;AWS App2Container
+Servicos;AWS Database Migration Service
+Servicos;AWS Snowball Edge
+Servicos;AWS DataSync
+Servicos;AWS Storage Gateway
+Nuvem Publica;Amazon Q
+Nuvem Publica;Amazon Bedrock
+Nuvem Publica;Amazon Transcribe
+Nuvem Publica;Amazon Polly
+Nuvem Publica;Amazon Textract
+Nuvem Publica;Amazon Rekoginiton
+Nuvem Publica;Amazon Lex
+Nuvem Publica;Amazon Translate
+Nuvem Publica;Amazon Personalize
+Nuvem Publica;Amazon Augmented AI
+Nuvem Publica;Amazon Comprehend
+Nuvem Publica;Amazon Fraud Detector
+Nuvem Publica;Amazon Kendra
+Nuvem Publica;Amazon Sagemaker
+Nuvem Publica;Amazon QuickSight
+Nuvem Publica;Amazon Athena
+Nuvem Publica;AWS Data Exchange
+Nuvem Publica;AWS Lake Formation
+Nuvem Publica;Amazon DataZone
+Nuvem Publica;AWS Clean Rooms
+Nuvem Publica;AWS Glue
+Nuvem Publica;AWS EMR
+Nuvem Publica;Amazon Redshift
+Nuvem Publica;Amazon Kinesis Video Streams
+Nuvem Publica;Amazon Kinesis Data Streams
+Nuvem Publica;Amazon Data Firehose
+Nuvem Publica;Amazon Managed Service for Apache Flink
+Nuvem Publica;Amazon Simple Queue Service (SQS)
+Nuvem Publica;Amazon Simple Notification Service (SNS)
+Nuvem Publica;Amazon MQ
+Nuvem Publica;Amazon Event Bridge
+Nuvem Publica;API Gateway
+Nuvem Publica;AWS CodeCommit
+Nuvem Publica;AWS CodeBuild
+Nuvem Publica;AWS CodeDeploy
+Nuvem Publica;AWS CodePipeline
+Nuvem Publica;AWS CodeCatalyst
+Nuvem Publica;AWS KMS (Key Management Service)
+Nuvem Publica;AWS CloudHSM
+Nuvem Publica;AWS Secrets Manager
+Nuvem Publica;AWS AppFlow
+Nuvem Publica;AWS Amplify
+Nuvem Publica;AWS Step Functions
 DRCC;Ops Insights for Oracle Autonomous Databases-Basic
 DRCC;Ops Insights for Cloud Databases
 DRCC;Ops Insights for External Oracle Databases and Host
