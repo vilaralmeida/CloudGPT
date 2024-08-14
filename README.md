@@ -17,11 +17,33 @@ Com foco no problema da percepcao real da mudanca promovida pela multinuvem do p
 
 A composicao de uma IA Generativa no formato de chat, consolidando o conhecimento sobre (a) o objetivo de cada produto, permitindo que cada usuario intereja com a ferramenta tirando duvidas sobre os produtos e (b) o conhecimento de cada empresa sobre o produto, consolidando informacões sobre oportunidades, capacidade, ofertas, questões contratuais, enfim, toda sorte de informacões para que gestores, analistas, arquitetos, comercial e demais envolvidos possam ter uma visao consolidada sobre o panorama da multinuvem em suas empresas.
 
+CloudGPT é uma plataforma de inteligência artificial para apoiar a governança corporativa, colaborando com a curadoria de conhecimento técnico e de negócio de multinuvem
+
+Objetivo Geral: Construção de Software baseado em plataforma de Inteligência Artificial, em ambiente seguro, com capacidade para realizar atividades relacionadas à ingestão, avaliação, organização, classificação, consolidação e composição de normativos, documentação técnica e de negócio, incluindo as de acesso restrito, através de uma interface com uso de linguagem natural e com capacidade de lidar com as especificidades da Empresa para imersão no contexto da Multinuvem de Governo. 
+
+Objetivos Específicos:
+1)	Composição de software capaz de utilizar capacidades de inteligência artificial, tais como interpretação de texto em linguagem natural, entendimento sobre o contexto da Multinuvem e composição de base de conhecimento com os relacionamentos entre os artefatos de forma coesa
+2)	Estruturação de processo de preparação das fontes de dados, adequando a documentação de governança (normativos/instruções técnicas/documentação de qq natureza) no formato adequado para tratamento
+3)	Viabilizar a ingestão dos dados através do tratamento fontes de dados em formato de arquivo com capacidade de integrar em um ecossistema único toda a base de informações 
+4)	Alcançar a capacidade de organizar conteúdo no tempo, garantindo que a ordem de prevalência temporal seja obedecida em tempo de composição da base de informações
+5)	Alcançar a capacidade de classificar a informação com base no conteúdo de maior afinidade, obedecendo a categorização de temas e suas relações hierárquicas
+6)	Realizar a avaliação do conteúdo consolidado, aplicando a contextualização e composição textual da análise referente ao questionamento realizado pelo usuário
+7)	Inserir a solução em um ambiente seguro, formado por infraestrutura computacional controlado pela Empresa, controlando o acesso de usuário e garantindo a segurança 
+
+
+### Visão Macro
 
 ![Visao Macro dos Componentes da Solucao](img1.png "CloudGPT")
 
 ### Modelo
 
-No intuito de dar encaminhamento à modelagem da solução, é necessário a composição/seleção de modelos adequados ao tratamento das informações específicas sobre o contexto multinuvem. A imagem a seguir consolida um fluxo geral de composição de modelos  
+No intuito de dar encaminhamento à modelagem da solução, é necessário a composição/seleção de modelos adequados ao tratamento das informações específicas sobre o contexto multinuvem. A imagem a seguir consolida um fluxo geral de composição de modelos e seus principais frameworks
 
 ![Ciclo de Vida da Composição de Modelos](modelagem.png "Ciclo de Vida da Modelagem")
+
+
+## Planejamento
+
+No intuito de dar visibilidade ao andamento das atividades, segue proposta de cronograma para evolução da solução
+
+![Cronograma v1](Cronogramav1.png "Cronograma")
